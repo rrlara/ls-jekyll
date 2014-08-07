@@ -1,0 +1,58 @@
+callback([
+
+  {
+    "text": "Excursion-on-Lake-Washington!!!",
+    "href": "/ls-jekyll/blog/2014/07/19/Excursion-on-Lake-Washington%21%21%21/"
+  } ,
+
+  {
+    "text": "River-",
+    "href": "/ls-jekyll/blog/2014/07/12/River-/"
+  } ,
+
+  {
+    "text": "Puget-Sound",
+    "href": "/ls-jekyll/blog/2014/07/12/Puget-Sound/"
+  } ,
+
+  {
+    "text": "",
+    "href": "/ls-jekyll/blog/2014/07/11/"
+  } ,
+
+  {
+    "text": "test",
+    "href": "/ls-jekyll/blog/2014/06/24/test/"
+  } ,
+
+  {
+    "text": "no-image-",
+    "href": "/ls-jekyll/blog/2014/06/24/no-image-/"
+  } ,
+
+  {
+    "text": "new-Brewery-",
+    "href": "/ls-jekyll/blog/2014/06/20/new-Brewery-/"
+  } ,
+
+  {
+    "text": "Park-by-Lake-Samammish",
+    "href": "/ls-jekyll/blog/2014/06/15/Park-by-Lake-Samammish/"
+  } ,
+
+  {
+    "text": "what-a-game!",
+    "href": "/ls-jekyll/blog/2014/06/13/what-a-game%21/"
+  } ,
+
+  {
+    "text": "Mexico-",
+    "href": "/ls-jekyll/blog/2014/06/13/Mexico-/"
+  } ,
+
+  {
+    "text": "Jolly-for-the-Brazil-vs-Croatia-Game",
+    "href": "/ls-jekyll/blog/2014/06/12/Jolly-for-the-Brazil-vs-Croatia-Game/"
+  } 
+
+])

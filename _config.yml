@@ -1,0 +1,121 @@
+baseurl: /ls-jekyll
+permalink: pretty
+markdown: rdiscount
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://rrlara.github.io/ls-jekyll/'
+  relativeLinks: 'http://rrlara.github.io/ls-jekyll/links.jsonp'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "members"
+        field:
+          element: "select"
+          label: "Post By:"
+          alterable: "true"
+          placeholder: "Choose Member"
+          options:
+            - name: "Todd Slind"
+              value: "Todd Slind"
+            - name: "Jubal Harpster"
+              value: "Jubal Harpster"
+            - name: "Clint Cabanero"
+              value: "Clint Cabanero"
+            - name: "Nick Hallahan"
+              value: "Nick Hallahan"
+            - name: "Mike Leech"
+              value: "Mike Leech"
+            - name: "Ryan Whitley"
+              value: "Ryan Whitley"
+            - name: "Rene Rodriguez"
+              value: "Rene Rodriguez"
+            - name: "Grant Mckenzie"
+              value: "Grant Mckenzie"
+            - name: "Daniel Duarte"
+              value: "Daniel Duarte"
+            - name: "Eric Kramak"
+              value: "Eric Kramak"
+            - name: "Naomi Menahem"
+              value: "Naomi Menahem"
+            - name: "Rich Gwozdz"
+              value: "Rich Gwozdz"
+            - name: "Shawna Paradee"
+              value: "Shawna Paradee"
+            - name: "Phoebe Merritt"
+              value: "Phoebe Merritt"
+            - name: "Adam Roberts"
+              value: "Adam Roberts"
+            - name: "Heidi Johnson"
+              value: "Heidi Johnson"
+            - name: "SpatialDev"
+              value: "SpatialDev"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Splash image URL"
+          value: ""
+      - name: "youtube_url"
+        field:
+          element: "text"
+          label: "Youtube Video ID"
+          value: ""
+          placeholder: "1234456789"
+      - name: "vimeo_url"
+        field:
+          element: "text"
+          label: "Vimeo Video ID"
+          value: ""
+          placeholder: "12345678"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          alterable: "true"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Work"
+              value: "work"
+            - name: "Services"
+              value: "services"
+            - name: "About Us"
+              value: "about us"
+            - name: "Careers"
+              value: "careers"
+      - name: "summary"
+        field:
+          element: "text"
+          label: "Summary"
+          value: ""
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
