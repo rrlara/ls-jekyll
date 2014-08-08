@@ -5,8 +5,6 @@ paginate: 5
 paginate_path: "blog/page:num"
 awsurl: "https://s3-us-west-2.amazonaws.com/"
 awsbucket: worldcup14
-profilename: "Rene Rodriguez"
-profileimage: "profileImage.jpg"
 prose:
   rooturl: '_posts'
   siteurl: 'http://rrlara.github.io/ls-jekyll/'

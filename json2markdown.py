@@ -46,6 +46,6 @@ for feature in data['features']:
 		out_file.write("\n")
 		out_file.write("altitude: " + str(altitude))
 		out_file.write("\n")
-		out_file.write(str(image) + ".jpg")
+		out_file.write("image: https://s3-us-west-2.amazonaws.com/worldcup14/" + str(image) + ".jpg")
 		out_file.write("\n")
 		out_file.write("---")
