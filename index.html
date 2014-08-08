@@ -64,7 +64,7 @@ section: blog
 
 
          {% if item.lng %}
-        <div class="mapContainer collapseMap"><span id='seeMap' >see map</span>
+        <div class="mapContainer collapseMap"><span id='{{item.title}}' class="seeMap">see map</span>
             <!-- <div class="eventmonth">{{item.eventdate}}</div> -->
             <div class="googlemap">
               <a href="https://www.google.com/maps/place/{{item.lat}},{{item.lng}}" target="_blank"><img src="http://maps.googleapis.com/maps/api/staticmap?center={{item.lat}},{{item.lng}}&zoom=13&size=290x100&maptype=roadmap&markers=color:red%7Csize:small%7C{{item.lat}},{{item.lng}}" >

@@ -274,7 +274,7 @@ input[type=text], textarea {
 .mapContainer{
   height: 21px;
   overflow: hidden;
-  color:#f05a30;
+  /*color:#f05a30;*/
   cursor: pointer;
 }
 

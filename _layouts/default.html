@@ -10,7 +10,7 @@ title: ''
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>SpatialDev News</title>
+    <title>LeapSpotLeap</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{site.baseurl}}/bootstrap.css" rel="stylesheet">
@@ -52,29 +52,17 @@ title: ''
           </div>
           <div class="navbar-collapse collapse" style="height: 1px;">
 
-            <div class="sidebar-module socialIcon">
-              <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'><i class="fa fa-info-circle"></i></a>
-              <a class="twitterLink" href='https://twitter.com/SpatialDev'><i class="fa fa-twitter"></i></a>
-              <a href='https://www.facebook.com/pages/Spatial-Development-International-SpatialDev/207761724057?ref=br_tf'><i class="fa fa-facebook"></i></a>
-              <a href='http://demo.spatialdev.com/spatialdev.github.io/'><i class="fa fa-github"></i></a>
-              {% include rss-link.html %}
-            </div>
-            <div class="chosen-container chosen-container-multi" style="width: 300px;" title="" id="repolist_chosen"><input type="text" id="search" value="" class="typeahead" autocomplete="off"><i id="searchGlass" class="fa fa-search"></i></div>
+            {% include socialmedia.html %}
+            
             <div class="sidebar-module">
             
-            {% include archives.html %} 
             
 
 
 
             </div>
             <div class="sidebar-module">
-              <h4>TAGS <i class="fa fa-tags"></i></h4>
-              <span class="list-unstyled">
-
-                    {% include tags.html %}
-
-              </span>
+              
             </div>
           </div>
 
@@ -109,27 +97,17 @@ title: ''
           <div class="sidebar-module sidebar-module-inset">
 
           </div>
-          <div class="sidebar-module socialIcon">
-            <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'><i class="fa fa-info-circle"></i></a>
-            <a class="twitterLink" href='https://twitter.com/SpatialDev'><i class="fa fa-twitter"></i></a>
-            <a href='https://www.facebook.com/pages/Spatial-Development-International-SpatialDev/207761724057?ref=br_tf'><i class="fa fa-facebook"></i></a>
-            <a href='http://demo.spatialdev.com/spatialdev.github.io/'><i class="fa fa-github"></i></a>
-            {% include rss-link.html %}
-          </div>
-          <div class="chosen-container chosen-container-multi" style="width: 300px;" title="" id="repolist_chosen"><input type="text" id="search" value="" class="typeahead" autocomplete="off"><i id="searchGlass" class="fa fa-search"></i></div>
+
+          {% include socialmedia.html %}
+
           <div class="sidebar-module">
             
-          {% include archives.html %} 
+
 
 
           </div>
           <div class="sidebar-module">
-            <h4>TAGS <i class="fa fa-tags"></i></h4>
-            <span class="list-unstyled">
-
-              {% include tags.html %}    
-
-            </span>
+            
           </div>
           </div>
 
@@ -165,9 +143,11 @@ title: ''
 
 	});
 
-    $('#seeMap').click(function(){
-      
-        $(".mapContainer").toggleClass('expandMap collapseMap');
+    $('.mapContainer').click(function(){
+
+        console.log(this);
+
+        $(this).toggleClass('expandMap collapseMap');
         
     })
 
