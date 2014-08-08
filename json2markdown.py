@@ -8,7 +8,7 @@ import json
 # json_str = json_str.replace("(null),", "").replace("(null)", "")
 # data = json.loads(json_str)   
 
-with open("json2md.json", 'rb') as f:
+with open("SEA.json", 'rb') as f:
 
 	json_str = f.read()
 	json_str = json_str.replace("(null),", "").replace("(null)", "")
@@ -22,7 +22,7 @@ with open("json2md.json", 'rb') as f:
 
 		timestamp = (feature['properties']['timestamp']).split(' ')[0]
 
-		altitude = feature['properties']['altitude']
+		# altitude = feature['properties']['altitude']
 
 		image = (feature['properties']['timestamp'])
 
@@ -39,17 +39,17 @@ with open("json2md.json", 'rb') as f:
 			out_file.write("\n")
 			out_file.write("layout: blog")
 			out_file.write("\n")
-			out_file.write("title: " + comment)
+			out_file.write("title: " + comment.replace("-,", " "))
 			out_file.write("\n")
 			out_file.write("category: blog")
 			out_file.write("\n")
 			out_file.write("lat: " + str(lat))
 			out_file.write("\n")
 			out_file.write("lng: " + str(lng))
+			# out_file.write("\n")
+			# out_file.write("altitude: " + str(altitude))
 			out_file.write("\n")
-			out_file.write("altitude: " + str(altitude))
-			out_file.write("\n")
-			out_file.write("image: https://s3-us-west-2.amazonaws.com/worldcup14/" + str(image) + ".jpg")
+			out_file.write("image: https://s3-us-west-2.amazonaws.com/travels2013/" + str(image) + ".jpg")
 			out_file.write("\n")
 			out_file.write("---")
 

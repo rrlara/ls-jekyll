@@ -1,6 +1,8 @@
 baseurl: /ls-jekyll
 permalink: pretty
 markdown: rdiscount
+paginate: 5
+paginate_path: "blog/page:num"
 prose:
   rooturl: '_posts'
   siteurl: 'http://rrlara.github.io/ls-jekyll/'
