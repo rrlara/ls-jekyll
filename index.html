@@ -26,17 +26,12 @@ section: blog
         <a class='item' href='{{site.baseurl}}{{item.url}}'>{{item.title  | upcase}}</a>
         </div>
         <div class="memberConatainer clearfix">
-        {% if item.members %}
-          {% for member in site.data.members %}
-            {% if member.name == {{item.members}} %}
-            <img class="memberThumbnail" width="30px" height="30px" src='{{site.baseurl}}/img/members/{{member.pic}}' alt='' />
-            {% endif %}
-          {% endfor %}
+        
         <strong>{{item.members}}</strong>
-        {% else %}
-          <img class="memberThumbnail" width="30px" height="30px" src='{{site.baseurl}}/img/gear.png' alt='' />
-          <strong>SpatialDev</strong>
-        {% endif %}
+        
+          <img class="memberThumbnail" width="30px" height="30px" src='https://s3-us-west-2.amazonaws.com/worldcup14/profileImage.jpg'/>
+          <strong>Rene Rodriguez</strong>
+      
         </div>
 
           {% if item.image %}
@@ -47,7 +42,7 @@ section: blog
             {% endif %}
 
             <div class='splash'>
-              <a href="{{item.url}}"><img max-width="848px" src='{{item.image}}' alt='' /></a>
+              <a href="{{item.url}}"><img max-width="848px" src='{{awsurl}}{{awsbucket}}{{item.image}}' alt='' /></a>
             </div>
 
           {% endif %}

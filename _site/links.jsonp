@@ -1,6 +1,16 @@
 callback([
 
   {
+    "text": "jekyll-LeapSpot-on-the-way",
+    "href": "/ls-jekyll/blog/2014/08/07/jekyll-LeapSpot-on-the-way/"
+  } ,
+
+  {
+    "text": "spit",
+    "href": "/ls-jekyll/blog/2014/07/26/spit/"
+  } ,
+
+  {
     "text": "Excursion-on-Lake-Washington!!!",
     "href": "/ls-jekyll/blog/2014/07/19/Excursion-on-Lake-Washington!!!/"
   } ,
