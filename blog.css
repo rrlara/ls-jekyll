@@ -272,7 +272,7 @@ input[type=text], textarea {
 }
 
 .mapContainer{
-  height: 21px;
+  height: 23px;
   overflow: hidden;
   /*color:#f05a30;*/
   cursor: pointer;
@@ -286,6 +286,6 @@ input[type=text], textarea {
 
 .collapseMap{
 
-    height: 21px;
+    height: 23px;
     transition: height 0.25s ease-in;
 }
