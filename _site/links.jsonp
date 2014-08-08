@@ -1,28 +1,33 @@
 callback([
 
   {
-    "text": "jekyll-LeapSpot-on-the-way",
-    "href": "/ls-jekyll/blog/2014/08/07/jekyll-LeapSpot-on-the-way/"
+    "text": "Jekyll Leapspot On The Way",
+    "href": "/ls-jekyll/2014/08/07/jekyll-LeapSpot-on-the-way/"
   } ,
 
   {
-    "text": "spit",
-    "href": "/ls-jekyll/blog/2014/07/26/spit/"
+    "text": "Gizmo",
+    "href": "/ls-jekyll/2014/08/07/Gizmo/"
   } ,
 
   {
-    "text": "Excursion-on-Lake-Washington!!!",
-    "href": "/ls-jekyll/blog/2014/07/19/Excursion-on-Lake-Washington!!!/"
+    "text": "Spit",
+    "href": "/ls-jekyll/2014/07/26/spit/"
   } ,
 
   {
-    "text": "River-",
-    "href": "/ls-jekyll/blog/2014/07/12/River-/"
+    "text": "Excursion On Lake Washington!!!",
+    "href": "/ls-jekyll/2014/07/19/Excursion-on-Lake-Washington!!!/"
   } ,
 
   {
-    "text": "Puget-Sound",
-    "href": "/ls-jekyll/blog/2014/07/12/Puget-Sound/"
+    "text": "River",
+    "href": "/ls-jekyll/2014/07/12/River-/"
+  } ,
+
+  {
+    "text": "Puget Sound",
+    "href": "/ls-jekyll/2014/07/12/Puget-Sound/"
   } ,
 
   {
@@ -31,38 +36,38 @@ callback([
   } ,
 
   {
-    "text": "test",
-    "href": "/ls-jekyll/blog/2014/06/24/test/"
+    "text": "Test",
+    "href": "/ls-jekyll/2014/06/24/test/"
   } ,
 
   {
-    "text": "no-image-",
-    "href": "/ls-jekyll/blog/2014/06/24/no-image-/"
+    "text": "No Image",
+    "href": "/ls-jekyll/2014/06/24/no-image-/"
   } ,
 
   {
-    "text": "new-Brewery-",
-    "href": "/ls-jekyll/blog/2014/06/20/new-Brewery-/"
+    "text": "New Brewery",
+    "href": "/ls-jekyll/2014/06/20/new-Brewery-/"
   } ,
 
   {
-    "text": "Park-by-Lake-Samammish",
-    "href": "/ls-jekyll/blog/2014/06/15/Park-by-Lake-Samammish/"
+    "text": "Park By Lake Samammish",
+    "href": "/ls-jekyll/2014/06/15/Park-by-Lake-Samammish/"
   } ,
 
   {
-    "text": "what-a-game!",
-    "href": "/ls-jekyll/blog/2014/06/13/what-a-game!/"
+    "text": "What A Game!",
+    "href": "/ls-jekyll/2014/06/13/what-a-game!/"
   } ,
 
   {
-    "text": "Mexico-",
-    "href": "/ls-jekyll/blog/2014/06/13/Mexico-/"
+    "text": "Mexico",
+    "href": "/ls-jekyll/2014/06/13/Mexico-/"
   } ,
 
   {
-    "text": "Jolly-for-the-Brazil-vs-Croatia-Game",
-    "href": "/ls-jekyll/blog/2014/06/12/Jolly-for-the-Brazil-vs-Croatia-Game/"
+    "text": "Jolly For The Brazil Vs Croatia Game",
+    "href": "/ls-jekyll/2014/06/12/Jolly-for-the-Brazil-vs-Croatia-Game/"
   } 
 
 ])
