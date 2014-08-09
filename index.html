@@ -31,7 +31,7 @@ section: blog
             {% endif %}
 
             <div class='splash'>
-              <div style="position:absolute;margin-left:10px;margin-top:10px;">
+              <div style="position:absolute;margin-left:10px;margin-top:10px;z-index:4;">
                   <div class='date clearfix'>
                     <div class="dateText">{{item.date | date:"%B %d, %Y"}}</div>
                   </div>
@@ -48,12 +48,15 @@ section: blog
                     {% endfor %}
                   <strong>{{item.members}}</strong>
                   {% else %}
-                    <img class="memberThumbnail" width="30px" height="30px" src='https://s3-us-west-2.amazonaws.com/worldcup14/profileImage.jpg' alt='' />
+
+                    <img class="memberThumbnail thumbnailProfile" width="30px" height="30px" src='https://s3-us-west-2.amazonaws.com/worldcup14/profileImage.jpg' alt='' />
                     <strong>Rene Rodriguez</strong>
                   {% endif %}
                 </div>
                 </div>
+                
               <img max-width="848px" src='{{awsurl}}{{awsbucket}}{{item.image}}' alt='' />
+              <div class="fill-darken2 pin"></div>
             </div>
 
           {% endif %}
@@ -77,27 +80,6 @@ section: blog
             </div></a>
         </div> -->
         {% endif %}
-
-
-       <div id="welcome-camilla-mahon" class="blog-item col3 contain clearfix">
-
-  <a class="block dark contain clip" href="/blog/welcome-camilla-mahon">
-    <div style="background-image:url(https://farm6.staticflickr.com/5577/14851892144_9e3774dbcf.jpg)" class="blog-item-image col12 animate"></div>
-    <div class="blog-item-overlay pad2 fill-darken2 pin-top pin-bottom col12">
-      <div>
-        <h3 class="small quiet dark"><strong>Aug 07 2014</strong></h3>
-        <h2 class="dark">Welcome Camilla Mahon
-</h2>
-      </div>
-    </div>
-    <div class="pin-bottom strong author quiet pad2 col12 small">
-      
-        
-        <span class="thumb dot inline" style="background-image:url(/img/team/chris.thumb.jpg);"></span>Chris Herwig
-      
-    </div>
-  </a>
-</div>
 
 
 
@@ -125,6 +107,8 @@ section: blog
             </div>
           </div>
         {% endif %}
+
+        <a href="/blog/2/" class="blog-fixed-next round-left fr pager-next button rcon next">2</a>
 
      
 

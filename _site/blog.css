@@ -317,3 +317,40 @@ background: rgba(0,0,0,0.50);
 .container{
   overflow: hidden;
 }
+
+.thumbnailProfile {
+/*position: absolute;*/
+width: 40px;
+height: 40px;
+left: 5px;
+top: 3px;
+border-radius: 30px;
+background-size: cover;
+float: left;
+}
+
+.pin {
+top: 0;
+right: 0;
+left: 0;
+height: 130px;
+position: absolute;
+}
+
+.blog-fixed-next {
+right: 0;
+}
+[class*='blog-fixed-'] {
+position: fixed;
+top: 0;
+bottom: 0;
+margin: auto;
+}
+
+.round-left {
+border-radius: 3px 0 0 3px;
+}
+
+.fr {
+float: right;
+}
