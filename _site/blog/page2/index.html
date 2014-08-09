@@ -102,7 +102,7 @@
     
 
     
-    <div id="Park-by-Lake-Samammish" class="article clearfix">
+    <div id="Park-by-Lake-Samammish" class="article clearfix moveRight">
 
 
           
@@ -117,7 +117,7 @@
                   </div>
               
                   <div class="itemTitle">
-                  <a class='item' href='/ls-jekyll/blog/2014/06/15/Park-by-Lake-Samammish/'>PARK-BY-LAKE-SAMAMMISH</a>
+                  <a class='item'>PARK-BY-LAKE-SAMAMMISH</a>
                   </div>
                   <div class="memberConatainer clearfix">
                   
@@ -126,7 +126,7 @@
                   
                 </div>
                 </div>
-              <a href="/blog/2014/06/15/Park-by-Lake-Samammish/"><img max-width="848px" src='https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-15 18:07:17 PDT.jpg' alt='' /></a>
+              <img max-width="848px" src='https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-15 18:07:17 PDT.jpg' alt='' />
             </div>
 
           
@@ -156,7 +156,7 @@
     
 
     
-    <div id="what-a-game!" class="article clearfix">
+    <div id="what-a-game!" class="article clearfix moveRight">
 
 
           
@@ -171,7 +171,7 @@
                   </div>
               
                   <div class="itemTitle">
-                  <a class='item' href='/ls-jekyll/blog/2014/06/13/what-a-game!/'>WHAT-A-GAME!</a>
+                  <a class='item'>WHAT-A-GAME!</a>
                   </div>
                   <div class="memberConatainer clearfix">
                   
@@ -180,7 +180,7 @@
                   
                 </div>
                 </div>
-              <a href="/blog/2014/06/13/what-a-game!/"><img max-width="848px" src='https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-13 13:48:14 PDT.jpg' alt='' /></a>
+              <img max-width="848px" src='https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-13 13:48:14 PDT.jpg' alt='' />
             </div>
 
           
@@ -210,7 +210,7 @@
     
 
     
-    <div id="Mexico-" class="article clearfix">
+    <div id="Mexico-" class="article clearfix moveRight">
 
 
           
@@ -225,7 +225,7 @@
                   </div>
               
                   <div class="itemTitle">
-                  <a class='item' href='/ls-jekyll/blog/2014/06/13/Mexico-/'>MEXICO-</a>
+                  <a class='item'>MEXICO-</a>
                   </div>
                   <div class="memberConatainer clearfix">
                   
@@ -234,7 +234,7 @@
                   
                 </div>
                 </div>
-              <a href="/blog/2014/06/13/Mexico-/"><img max-width="848px" src='https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-13 17:00:57 PDT.jpg' alt='' /></a>
+              <img max-width="848px" src='https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-13 17:00:57 PDT.jpg' alt='' />
             </div>
 
           
@@ -264,7 +264,7 @@
     
 
     
-    <div id="Jolly-for-the-Brazil-vs-Croatia-Game" class="article clearfix">
+    <div id="Jolly-for-the-Brazil-vs-Croatia-Game" class="article clearfix moveRight">
 
 
           
@@ -279,7 +279,7 @@
                   </div>
               
                   <div class="itemTitle">
-                  <a class='item' href='/ls-jekyll/blog/2014/06/12/Jolly-for-the-Brazil-vs-Croatia-Game/'>JOLLY-FOR-THE-BRAZIL-VS-CROATIA-GAME</a>
+                  <a class='item'>JOLLY-FOR-THE-BRAZIL-VS-CROATIA-GAME</a>
                   </div>
                   <div class="memberConatainer clearfix">
                   
@@ -288,7 +288,7 @@
                   
                 </div>
                 </div>
-              <a href="/blog/2014/06/12/Jolly-for-the-Brazil-vs-Croatia-Game/"><img max-width="848px" src='https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-12 15:39:30 PDT.jpg' alt='' /></a>
+              <img max-width="848px" src='https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-12 15:39:30 PDT.jpg' alt='' />
             </div>
 
           
@@ -403,6 +403,17 @@
         console.log(this);
 
         $(this).toggleClass('expandMap collapseMap');
+        
+    })
+
+
+  $('.article').click(function(){
+
+        $(".article").removeClass('moveLeft');
+        
+        console.log(this);
+
+        $(this).toggleClass('moveLeft moveRight');
         
     })
 

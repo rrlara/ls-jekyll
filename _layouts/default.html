@@ -151,6 +151,17 @@ title: ''
         
     })
 
+
+  $('.article').click(function(){
+
+        $(".article").removeClass('moveLeft');
+        
+        console.log(this);
+
+        $(this).toggleClass('moveLeft moveRight');
+        
+    })
+
   // var search = $('#search').typeahead({
   //     prefetch: '/search.json',
   //     template: [

@@ -13,7 +13,7 @@ section: blog
     {% if date != ndate %}
       <!-- <h3 id="{{item.date | date: '%B %Y'}}" class='month'></h3> -->
     {% endif %}
-    <div id="{{item.title}}" class="article clearfix">
+    <div id="{{item.title}}" class="article clearfix moveRight">
 
 
           {% if item.image %}
@@ -30,7 +30,7 @@ section: blog
                   </div>
               
                   <div class="itemTitle">
-                  <a class='item' href='{{site.baseurl}}{{item.url}}'>{{item.title  | upcase}}</a>
+                  <a class='item'>{{item.title  | upcase}}</a>
                   </div>
                   <div class="memberConatainer clearfix">
                   {% if item.members %}
@@ -46,7 +46,7 @@ section: blog
                   {% endif %}
                 </div>
                 </div>
-              <a href="{{item.url}}"><img max-width="848px" src='{{awsurl}}{{awsbucket}}{{item.image}}' alt='' /></a>
+              <img max-width="848px" src='{{awsurl}}{{awsbucket}}{{item.image}}' alt='' />
             </div>
 
           {% endif %}
