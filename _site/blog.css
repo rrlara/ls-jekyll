@@ -282,6 +282,8 @@ input[type=text], textarea {
   overflow: hidden;
   /*color:#f05a30;*/
   cursor: pointer;
+  position: absolute;
+ left: -300px;
 }
 
 .expandMap{
