@@ -15,6 +15,9 @@ data = json.loads(json_str)
 
 for feature in data['features']:
 
+	obsID = (feature['properties']['timestamp']).replace("-", "").replace(" ", "").replace(":", "")
+	print obsID
+
 	comment = feature['properties']['comment']
 	comment = comment.replace(" ", "-")
 
@@ -28,6 +31,10 @@ for feature in data['features']:
 
 	lat = feature['geometry']['coordinates'][1]
 	lng = feature['geometry']['coordinates'][0]
+
+	
+
+
 
 	
 	print file_name
@@ -47,5 +54,7 @@ for feature in data['features']:
 		out_file.write("altitude: " + str(altitude))
 		out_file.write("\n")
 		out_file.write("image: https://s3-us-west-2.amazonaws.com/worldcup14/" + str(image) + ".jpg")
+		out_file.write("\n")
+		out_file.write("observation: " + obsID)
 		out_file.write("\n")
 		out_file.write("---")
