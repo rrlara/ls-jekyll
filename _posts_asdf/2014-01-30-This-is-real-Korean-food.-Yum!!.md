@@ -1,8 +1,0 @@
----
-layout: blog
-title: This-is-real-Korean-food.-Yum!!
-category: blog
-lat: 37.57488
-lng: 126.98472
-image: https://s3-us-west-2.amazonaws.com/travels2013/2014-01-30 20:38:30 PST.jpg
----

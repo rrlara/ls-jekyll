@@ -15,12 +15,12 @@ section: blog
     {% endif %}
     <div id="{{item.title}}" class="article clearfix moveRight">
 
-          <div class="mapContainer expandMap"><span id='{{item.title}}' class="seeMap"><i class="fa fa-map-marker"> See map</i></span>
+          <!-- <div class="mapContainer expandMap"><span id='{{item.title}}' class="seeMap"><i class="fa fa-map-marker"> See map</i></span>
             
             <div class="googlemap">
               <a href="https://www.google.com/maps/place/{{item.lat}},{{item.lng}}" target="_blank"><img src="http://maps.googleapis.com/maps/api/staticmap?center={{item.lat}},{{item.lng}}&zoom=13&size=300x100&maptype=terrain&markers=color:red%7Csize:small%7C{{item.lat}},{{item.lng}}" >
             </div></a>
-        </div>
+        </div> -->
 
 
           {% if item.image %}
@@ -50,12 +50,12 @@ section: blog
                   {% else %}
 
                     <img class="memberThumbnail thumbnailProfile" width="30px" height="30px" src='https://s3-us-west-2.amazonaws.com/worldcup14/profileImage.jpg' alt='' />
-                    <strong>Rene Rodriguez</strong>
+                    <strong style="margin-left:5px;">Rene Rodriguez</strong>
                   {% endif %}
                 </div>
                 </div>
                 
-              <img max-width="848px" src='{{awsurl}}{{awsbucket}}{{item.image}}' alt='' />
+              <img class="postImage" max-width="848px" src='{{awsurl}}{{awsbucket}}{{item.image}}' alt='' />
               <div class="fill-darken2 pin"></div>
             </div>
 

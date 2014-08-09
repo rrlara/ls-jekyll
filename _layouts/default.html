@@ -143,13 +143,13 @@ title: ''
 
 	});
 
-    $('.mapContainer').click(function(){
+    // $('.mapContainer').click(function(){
 
-        console.log(this);
+    //     console.log(this);
 
-        $(this).toggleClass('expandMap collapseMap');
+    //     $(this).toggleClass('expandMap collapseMap');
         
-    })
+    // })
 
 
   $('.article').click(function(){
@@ -161,6 +161,34 @@ title: ''
         $(this).toggleClass('moveLeft moveRight');
         
     })
+
+  $( document ).ready(function() {
+  // Handler for .ready() called.
+
+  $(".splash img").each(function() {
+    if($(this).attr("src") == null) {
+      // $(".add_pdt_img_nc").remove();
+      console.log("No image found");
+    }
+
+    $(this).error(function () { 
+        // $(this).hide();
+        // $(this).attr("src") == '/img/NewSDLogo.png'
+        $(this).attr('src', "img/the-narrows.jpg");
+    });
+ });
+
+    // $(".postImage img").each(function(){
+    //       if($(this).attr("src") == null
+    //        {
+    //            $(this).remove();
+    //            console.log("dead image");
+    //         }
+    //   });
+});
+
+
+ 
 
   // var search = $('#search').typeahead({
   //     prefetch: '/search.json',
