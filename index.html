@@ -3,10 +3,6 @@ layout: default
 section: blog
 ---
 
-<div class="blog-header">
-  <h3 class="blog-title">LATEST NEWS</h3>
-</div>
-
 <div class='listing col7 margin15 pad4h'>
   {% for item in paginator.posts %}
     {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
@@ -18,26 +14,7 @@ section: blog
       <!-- <h3 id="{{item.date | date: '%B %Y'}}" class='month'></h3> -->
     {% endif %}
     <div id="{{item.title}}" class="article clearfix">
-        <div class='date clearfix'>
-          <div class="dateText">{{item.date | date:"%B %d, %Y"}}</div>
-        </div>
-    
-        <div class="itemTitle">
-        <a class='item' href='{{site.baseurl}}{{item.url}}'>{{item.title  | upcase}}</a>
-        </div>
-        <div class="memberConatainer clearfix">
-        {% if item.members %}
-          {% for member in site.data.members %}
-            {% if member.name == {{item.members}} %}
-            <img class="memberThumbnail" width="30px" height="30px" src='{{site.baseurl}}/img/members/{{member.pic}}' alt='' />
-            {% endif %}
-          {% endfor %}
-        <strong>{{item.members}}</strong>
-        {% else %}
-          <img class="memberThumbnail" width="30px" height="30px" src='https://s3-us-west-2.amazonaws.com/worldcup14/profileImage.jpg' alt='' />
-          <strong>Rene Rodriguez</strong>
-        {% endif %}
-        </div>
+
 
           {% if item.image %}
             {% if item.splash contains 'http' %}
@@ -47,6 +24,28 @@ section: blog
             {% endif %}
 
             <div class='splash'>
+              <div style="position:absolute;margin-left:10px;margin-top:10px;">
+                  <div class='date clearfix'>
+                    <div class="dateText">{{item.date | date:"%B %d, %Y"}}</div>
+                  </div>
+              
+                  <div class="itemTitle">
+                  <a class='item' href='{{site.baseurl}}{{item.url}}'>{{item.title  | upcase}}</a>
+                  </div>
+                  <div class="memberConatainer clearfix">
+                  {% if item.members %}
+                    {% for member in site.data.members %}
+                      {% if member.name == {{item.members}} %}
+                      <img class="memberThumbnail" width="30px" height="30px" src='{{site.baseurl}}/img/members/{{member.pic}}' alt='' />
+                      {% endif %}
+                    {% endfor %}
+                  <strong>{{item.members}}</strong>
+                  {% else %}
+                    <img class="memberThumbnail" width="30px" height="30px" src='https://s3-us-west-2.amazonaws.com/worldcup14/profileImage.jpg' alt='' />
+                    <strong>Rene Rodriguez</strong>
+                  {% endif %}
+                </div>
+                </div>
               <a href="{{item.url}}"><img max-width="848px" src='{{awsurl}}{{awsbucket}}{{item.image}}' alt='' /></a>
             </div>
 
@@ -64,12 +63,12 @@ section: blog
 
 
          {% if item.lng %}
-        <div class="mapContainer collapseMap"><span id='{{item.title}}' class="seeMap"><i class="fa fa-map-marker"> See map</i></span>
-            <!-- <div class="eventmonth">{{item.eventdate}}</div> -->
+        <!-- <div class="mapContainer collapseMap"><span id='{{item.title}}' class="seeMap"><i class="fa fa-map-marker"> See map</i></span>
+            
             <div class="googlemap">
               <a href="https://www.google.com/maps/place/{{item.lat}},{{item.lng}}" target="_blank"><img src="http://maps.googleapis.com/maps/api/staticmap?center={{item.lat}},{{item.lng}}&zoom=13&size=290x100&maptype=roadmap&markers=color:red%7Csize:small%7C{{item.lat}},{{item.lng}}" >
             </div></a>
-        </div>
+        </div> -->
         {% endif %}
 
 

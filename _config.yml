@@ -1,7 +1,7 @@
 baseurl: /ls-jekyll
 permalink: pretty
 markdown: rdiscount
-paginate: 5
+paginate: 10
 paginate_path: "blog/page:num"
 awsurl: "https://s3-us-west-2.amazonaws.com/"
 awsbucket: worldcup14

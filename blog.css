@@ -7,13 +7,18 @@
   margin-bottom: 5px;
 }
 
+.itemTitle a {
+  color:#fff;
+}
+
 .memberConatainer{
   /*float: left;*/
   margin-bottom: 5px;
+  color: #fff;
 }
 
 .splash {
-  margin-top: 10px;
+  /*margin-top: 10px;*/
   }
 
 .splash img {
@@ -57,8 +62,8 @@
   }
 
 .article{
-  margin-bottom:20px;
-  margin-top: 27px;
+  margin-bottom:2px;
+  /*margin-top: 27px;*/
 }
 
 
@@ -263,7 +268,7 @@ input[type=text], textarea {
 
 .dateText{
   padding: 0px 3px 0px 3px;
-  background-color:#759da7;
+  /*background-color:#759da7;*/
   float: left;
 }
 
