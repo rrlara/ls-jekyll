@@ -1,4 +1,5 @@
 import urllib2
+import urllib
 import json
 import unicodedata
 
@@ -33,6 +34,21 @@ for feature in data['features']:
 
 	image = (feature['properties']['timestamp'])
 
+	imageURL = "image: https://s3-us-west-2.amazonaws.com/worldcup14/" + str(image) + ".jpg"
+
+	try:
+	  f = urllib2.urlopen(urllib2.Request(imageURL))
+	  LinkFound = True
+	  print "Image is valid"
+	except:
+	  LinkFound = False
+	  print "Image is null!"
+
+	# if imageURL is None:
+	# 		print "Image is null", imageURL
+	# else:
+	# 	print "All images are valid!"
+
 	file_name = timestamp + "-" + comment
 
 	# filename_encode = file_name.encode('utf8')
@@ -45,7 +61,7 @@ for feature in data['features']:
 
 	normal = unicodedata.normalize('NFKD', file_name).encode('ASCII', 'ignore')
 	
-	print "This is the file name", normal
+	# print "This is the file name", normal
 	with open("_posts/" + normal + '.md', 'wb') as out_file:
 		out_file.write("---")
 		out_file.write("\n")
@@ -61,7 +77,7 @@ for feature in data['features']:
 		out_file.write("\n")
 		out_file.write("altitude: " + str(altitude))
 		out_file.write("\n")
-		out_file.write("image: https://s3-us-west-2.amazonaws.com/worldcup14/" + str(image) + ".jpg")
+		out_file.write(imageURL)
 		out_file.write("\n")
 		out_file.write("observation: " + obsID)
 		out_file.write("\n")
