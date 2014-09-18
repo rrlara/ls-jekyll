@@ -1,653 +1,838 @@
 callback([
 
   {
-    "text": "jekyll-LeapSpot-on-the-way",
-    "href": "/ls-jekyll/blog/2014/08/07/jekyll-LeapSpot-on-the-way/"
+    "text": "2014-02-01-Back-in-Seattle--Glad-to-see-this-dude-",
+    "href": "/ls-jekyll/blog/2014/02/01/Back-in-Seattle--Glad-to-see-this-dude-/"
   } ,
 
   {
-    "text": "Gizmo",
-    "href": "/ls-jekyll/blog/2014/08/07/Gizmo/"
+    "text": "2014-01-30-This-street-is-busy-",
+    "href": "/ls-jekyll/blog/2014/01/30/This-street-is-busy-/"
   } ,
 
   {
-    "text": "spit",
-    "href": "/ls-jekyll/blog/2014/07/26/spit/"
+    "text": "2014-01-30-This-is-real-Korean-food--Yum!!",
+    "href": "/ls-jekyll/blog/2014/01/30/This-is-real-Korean-food--Yum!!/"
   } ,
 
   {
-    "text": "Excursion-on-Lake-Washington!!!",
-    "href": "/ls-jekyll/blog/2014/07/19/Excursion-on-Lake-Washington!!!/"
+    "text": "2014-01-30-Somewhere-in-Thailand",
+    "href": "/ls-jekyll/blog/2014/01/30/Somewhere-in-Thailand/"
   } ,
 
   {
-    "text": "River-",
-    "href": "/ls-jekyll/blog/2014/07/12/River-/"
+    "text": "2014-01-30-Seoul-Station-in-Seoul--",
+    "href": "/ls-jekyll/blog/2014/01/30/Seoul-Station-in-Seoul--/"
   } ,
 
   {
-    "text": "Puget-Sound",
-    "href": "/ls-jekyll/blog/2014/07/12/Puget-Sound/"
+    "text": "2014-01-30-Nobody-on-the-streets-in-Seoul",
+    "href": "/ls-jekyll/blog/2014/01/30/Nobody-on-the-streets-in-Seoul/"
   } ,
 
   {
-    "text": "",
-    "href": "/ls-jekyll/blog/2014/07/11/"
+    "text": "2014-01-30-Mokpo,-South-Korea-at-12,052-meters-high",
+    "href": "/ls-jekyll/blog/2014/01/30/Mokpo,-South-Korea-at-12,052-meters-high/"
   } ,
 
   {
-    "text": "test",
-    "href": "/ls-jekyll/blog/2014/06/24/test/"
+    "text": "2014-01-30-Listening-to-Chuy-y-Mauricio-con-La-Arrolladora-Banda-Limon--",
+    "href": "/ls-jekyll/blog/2014/01/30/Listening-to-Chuy-y-Mauricio-con-La-Arrolladora-Banda-Limon--/"
   } ,
 
   {
-    "text": "no-image-",
-    "href": "/ls-jekyll/blog/2014/06/24/no-image-/"
+    "text": "2014-01-30-Last-sunset-in-Thailand",
+    "href": "/ls-jekyll/blog/2014/01/30/Last-sunset-in-Thailand/"
   } ,
 
   {
-    "text": "new-Brewery-",
-    "href": "/ls-jekyll/blog/2014/06/20/new-Brewery-/"
+    "text": "2014-01-30-It's-cold-in-Seoul--Frozen-pool--",
+    "href": "/ls-jekyll/blog/2014/01/30/It's-cold-in-Seoul--Frozen-pool--/"
   } ,
 
   {
-    "text": "Park-by-Lake-Samammish",
-    "href": "/ls-jekyll/blog/2014/06/15/Park-by-Lake-Samammish/"
+    "text": "2014-01-30-Happy-Chinese-New-Years-2014!!",
+    "href": "/ls-jekyll/blog/2014/01/30/Happy-Chinese-New-Years-2014!!/"
   } ,
 
   {
-    "text": "what-a-game!",
-    "href": "/ls-jekyll/blog/2014/06/13/what-a-game!/"
+    "text": "2014-01-30-Finally-heading-to-Seoul--It's-1:15am--",
+    "href": "/ls-jekyll/blog/2014/01/30/Finally-heading-to-Seoul--It's-1:15am--/"
   } ,
 
   {
-    "text": "Mexico-",
-    "href": "/ls-jekyll/blog/2014/06/13/Mexico-/"
+    "text": "2014-01-30-Changdeokgung-Palace",
+    "href": "/ls-jekyll/blog/2014/01/30/Changdeokgung-Palace/"
   } ,
 
   {
-    "text": "Jolly-for-the-Brazil-vs-Croatia-Game",
-    "href": "/ls-jekyll/blog/2014/06/12/Jolly-for-the-Brazil-vs-Croatia-Game/"
+    "text": "2014-01-30-Bus-ride-break",
+    "href": "/ls-jekyll/blog/2014/01/30/Bus-ride-break/"
   } ,
 
   {
-    "text": "2014 05 31 Somwhere",
-    "href": "/ls-jekyll/blog/2014/05/31/Somwhere/"
+    "text": "2014-01-30-Back-in-Bangkok's-airport--",
+    "href": "/ls-jekyll/blog/2014/01/30/Back-in-Bangkok's-airport--/"
   } ,
 
   {
-    "text": "2014 05 31 Mnt  Rainer",
-    "href": "/ls-jekyll/blog/2014/05/31/Mnt--Rainer/"
+    "text": "2014-01-29-Last-beach-sunset-at-Lonely-Beach-in-Koh-Chang",
+    "href": "/ls-jekyll/blog/2014/01/29/Last-beach-sunset-at-Lonely-Beach-in-Koh-Chang/"
   } ,
 
   {
-    "text": "2014 05 31",
-    "href": "/ls-jekyll/blog/2014/05/31/"
+    "text": "2014-01-29-Finally-on-the-bus-to-Bangkok",
+    "href": "/ls-jekyll/blog/2014/01/29/Finally-on-the-bus-to-Bangkok/"
   } ,
 
   {
-    "text": "2014 05 30 What?!",
-    "href": "/ls-jekyll/blog/2014/05/30/What%3F!/"
+    "text": "2014-01-29-At-the-ferry-in-Koh-Chang",
+    "href": "/ls-jekyll/blog/2014/01/29/At-the-ferry-in-Koh-Chang/"
   } ,
 
   {
-    "text": "2014 05 30 Sea Mar",
-    "href": "/ls-jekyll/blog/2014/05/30/Sea-Mar/"
+    "text": "2014-01-28-His-and-Hers--Go-big-or-go-home--Last-afternoon-in-Koh-Chang--",
+    "href": "/ls-jekyll/blog/2014/01/28/His-and-Hers--Go-big-or-go-home--Last-afternoon-in-Koh-Chang--/"
   } ,
 
   {
-    "text": "2014 05 30 Ballard",
-    "href": "/ls-jekyll/blog/2014/05/30/Ballard/"
+    "text": "2014-01-27-White-sand-beach-in-Koh-Chang",
+    "href": "/ls-jekyll/blog/2014/01/27/White-sand-beach-in-Koh-Chang/"
   } ,
 
   {
-    "text": "2014 05 28 SR 520",
-    "href": "/ls-jekyll/blog/2014/05/28/SR-520/"
+    "text": "2014-01-26-Zip-Lining",
+    "href": "/ls-jekyll/blog/2014/01/26/Zip-Lining/"
   } ,
 
   {
-    "text": "2014 05 28 Orale",
-    "href": "/ls-jekyll/blog/2014/05/28/Orale/"
+    "text": "2014-01-26-Beach-and-jungle--Koh-Chang",
+    "href": "/ls-jekyll/blog/2014/01/26/Beach-and-jungle--Koh-Chang/"
   } ,
 
   {
-    "text": "2014 05 24 look for the peak rising above the amazon",
-    "href": "/ls-jekyll/blog/2014/05/24/look-for-the-peak-rising-above-the-amazon/"
+    "text": "2014-01-25-Trats-mud-flats--Waiting-for-the-ferry-to-Koh-Chang",
+    "href": "/ls-jekyll/blog/2014/01/25/Trats-mud-flats--Waiting-for-the-ferry-to-Koh-Chang/"
   } ,
 
   {
-    "text": "2014 05 24 close to Santa Cruz, Bolivia",
-    "href": "/ls-jekyll/blog/2014/05/24/close-to-Santa-Cruz,-Bolivia/"
+    "text": "2014-01-25-Sad-faces--No-Bungalows-available-and-it's-7:30-pm--Tired-from-longest-bus-ride,-longest-mini-bus-ride,-longest-ferry,-and-longest-up-hill-down-hill-ride-to-the-village",
+    "href": "/ls-jekyll/blog/2014/01/25/Sad-faces--No-Bungalows-available-and-it's-7:30-pm--Tired-from-longest-bus-ride,-longest-mini-bus-ride,-longest-ferry,-and-longest-up-hill-down-hill-ride-to-the-village/"
   } ,
 
   {
-    "text": "2014 05 24 Santa Cruz, Bolivia",
-    "href": "/ls-jekyll/blog/2014/05/24/Santa-Cruz,-Bolivia/"
+    "text": "2014-01-25-On-the-ferry-to-Koh-Chang",
+    "href": "/ls-jekyll/blog/2014/01/25/On-the-ferry-to-Koh-Chang/"
   } ,
 
   {
-    "text": "2014 05 24 Leaving South America (Venezuela)",
-    "href": "/ls-jekyll/blog/2014/05/24/Leaving-South-America-(Venezuela)/"
+    "text": "2014-01-25-Green-Cottage-Bungalows-@-Lonely-Beach",
+    "href": "/ls-jekyll/blog/2014/01/25/Green-Cottage-Bungalows-@-Lonely-Beach/"
   } ,
 
   {
-    "text": "2014 05 24 La Paz Mountain",
-    "href": "/ls-jekyll/blog/2014/05/24/La-Paz-Mountain/"
+    "text": "2014-01-25-Cooling-off-from-the-beach--Smoothies-are-bomb-",
+    "href": "/ls-jekyll/blog/2014/01/25/Cooling-off-from-the-beach--Smoothies-are-bomb-/"
   } ,
 
   {
-    "text": "2014 05 24 Hispanola?",
-    "href": "/ls-jekyll/blog/2014/05/24/Hispanola%3F/"
+    "text": "2014-01-25-Bungalow-at-the-Sunflower-at-Lonely-Beach",
+    "href": "/ls-jekyll/blog/2014/01/25/Bungalow-at-the-Sunflower-at-Lonely-Beach/"
   } ,
 
   {
-    "text": "2014 05 24 Cuba",
-    "href": "/ls-jekyll/blog/2014/05/24/Cuba/"
+    "text": "2014-01-25-@-Lonely-Beach-",
+    "href": "/ls-jekyll/blog/2014/01/25/@-Lonely-Beach-/"
   } ,
 
   {
-    "text": "2014 05 24 Amazon River 2",
-    "href": "/ls-jekyll/blog/2014/05/24/Amazon-River-2/"
+    "text": "2014-01-24-Right-on-the-border-of-Cambodia-and-Thailand-",
+    "href": "/ls-jekyll/blog/2014/01/24/Right-on-the-border-of-Cambodia-and-Thailand-/"
   } ,
 
   {
-    "text": "2014 05 24 Amazon River",
-    "href": "/ls-jekyll/blog/2014/05/24/Amazon-River/"
+    "text": "2014-01-24-Near-Koh-Kong",
+    "href": "/ls-jekyll/blog/2014/01/24/Near-Koh-Kong/"
   } ,
 
   {
-    "text": "2014 05 24 @ El Alto Airport",
-    "href": "/ls-jekyll/blog/2014/05/24/@-El-Alto-Airport/"
+    "text": "2014-01-24-Koh-Kong-bridge-",
+    "href": "/ls-jekyll/blog/2014/01/24/Koh-Kong-bridge-/"
   } ,
 
   {
-    "text": "2014 05 23 Valle de la luna",
-    "href": "/ls-jekyll/blog/2014/05/23/Valle-de-la-luna/"
+    "text": "2014-01-24-Heading-Ko-Kong-(Cambodia-and-Thailand-border)",
+    "href": "/ls-jekyll/blog/2014/01/24/Heading-Ko-Kong-(Cambodia-and-Thailand-border)/"
   } ,
 
   {
-    "text": "2014 05 23 Mirador de Killi killi",
-    "href": "/ls-jekyll/blog/2014/05/23/Mirador-de-Killi-killi/"
+    "text": "2014-01-23-yeah-boy-beach-time",
+    "href": "/ls-jekyll/blog/2014/01/23/yeah-boy-beach-time/"
   } ,
 
   {
-    "text": "2014 05 23 Calle angostas de La Paz",
-    "href": "/ls-jekyll/blog/2014/05/23/Calle-angostas-de-La-Paz/"
+    "text": "2014-01-23-beautiful-beach!!",
+    "href": "/ls-jekyll/blog/2014/01/23/beautiful-beach!!/"
   } ,
 
   {
-    "text": "2014 05 22 la Paz",
-    "href": "/ls-jekyll/blog/2014/05/22/la-Paz/"
+    "text": "2014-01-23-This-is-what-I-call-a-nice-Beach",
+    "href": "/ls-jekyll/blog/2014/01/23/This-is-what-I-call-a-nice-Beach/"
   } ,
 
   {
-    "text": "2014 05 22 Miraflores, La Paz",
-    "href": "/ls-jekyll/blog/2014/05/22/Miraflores,-La-Paz/"
+    "text": "2014-01-23-Koh-Tas,-Cambodia-",
+    "href": "/ls-jekyll/blog/2014/01/23/Koh-Tas,-Cambodia-/"
   } ,
 
   {
-    "text": "2014 05 21 Nice View of lower La Paz",
-    "href": "/ls-jekyll/blog/2014/05/21/Nice-View-of-lower-La-Paz/"
+    "text": "2014-01-23-Koh-Rong-S--Island",
+    "href": "/ls-jekyll/blog/2014/01/23/Koh-Rong-S--Island/"
   } ,
 
   {
-    "text": "2014 05 20 VIPFE building",
-    "href": "/ls-jekyll/blog/2014/05/20/VIPFE-building/"
+    "text": "2014-01-23-Cool-bridge-on-the-distance--Heading-to-the-islands-",
+    "href": "/ls-jekyll/blog/2014/01/23/Cool-bridge-on-the-distance--Heading-to-the-islands-/"
   } ,
 
   {
-    "text": "2014 05 18 Outside a church!",
-    "href": "/ls-jekyll/blog/2014/05/18/Outside-a-church!/"
+    "text": "2014-01-23-Angkor-at-the-blue-water-beach-",
+    "href": "/ls-jekyll/blog/2014/01/23/Angkor-at-the-blue-water-beach-/"
   } ,
 
   {
-    "text": "2014 05 18 La Paz, Bolivia",
-    "href": "/ls-jekyll/blog/2014/05/18/La-Paz,-Bolivia/"
+    "text": "2014-01-23-Almost-to-the-dock-of-Koh-Rong-S--Island",
+    "href": "/ls-jekyll/blog/2014/01/23/Almost-to-the-dock-of-Koh-Rong-S--Island/"
   } ,
 
   {
-    "text": "2014 05 18 Hotel Camino Real  La Paz, Bolivia",
-    "href": "/ls-jekyll/blog/2014/05/18/Hotel-Camino-Real--La-Paz,-Bolivia/"
+    "text": "2014-01-22-Enjoying-the-sunset-at-Otres-Beach",
+    "href": "/ls-jekyll/blog/2014/01/22/Enjoying-the-sunset-at-Otres-Beach/"
   } ,
 
   {
-    "text": "2014 05 17 Somwhere in the Cascade Mountains",
-    "href": "/ls-jekyll/blog/2014/05/17/Somwhere-in-the-Cascade-Mountains-/"
+    "text": "2014-01-22-Amazing-dinner-beside-the-beach-in-Otres-Beach",
+    "href": "/ls-jekyll/blog/2014/01/22/Amazing-dinner-beside-the-beach-in-Otres-Beach/"
   } ,
 
   {
-    "text": "2014 05 17 Rumbo a Dallas, then Miami, then to La Paz, Bolivia",
-    "href": "/ls-jekyll/blog/2014/05/17/Rumbo-a-Dallas,-then-Miami,-then-to-La-Paz,-Bolivia/"
+    "text": "2014-01-21-Sihanoukville-Sunset",
+    "href": "/ls-jekyll/blog/2014/01/21/Sihanoukville-Sunset/"
   } ,
 
   {
-    "text": "2014 05 17 Dallas, Texas",
-    "href": "/ls-jekyll/blog/2014/05/17/Dallas,-Texas/"
+    "text": "2014-01-21-Serendipity-Beach",
+    "href": "/ls-jekyll/blog/2014/01/21/Serendipity-Beach/"
   } ,
 
   {
-    "text": "2014 05 01 Rattlesnake View",
-    "href": "/ls-jekyll/blog/2014/05/01/Rattlesnake-View/"
+    "text": "2014-01-20-Speechless",
+    "href": "/ls-jekyll/blog/2014/01/20/Speechless/"
   } ,
 
   {
-    "text": "2014 04 20 Mount Baker",
-    "href": "/ls-jekyll/blog/2014/04/20/Mount-Baker/"
+    "text": "2014-01-20-Memorial-Stupa-at-The-Choeung-Ek-Genocidal-Center",
+    "href": "/ls-jekyll/blog/2014/01/20/Memorial-Stupa-at-The-Choeung-Ek-Genocidal-Center/"
   } ,
 
   {
-    "text": "2014 04 20 Beautiful day  Easter Day",
-    "href": "/ls-jekyll/blog/2014/04/20/Beautiful-day--Easter-Day--/"
+    "text": "2014-01-20-Having-drinks-in-our-last-night-in-Phnom-Penh--Rooftop-View--",
+    "href": "/ls-jekyll/blog/2014/01/20/Having-drinks-in-our-last-night-in-Phnom-Penh--Rooftop-View--/"
   } ,
 
   {
-    "text": "2014 04 17 @ some cafe",
-    "href": "/ls-jekyll/blog/2014/04/17/@-some-cafe/"
+    "text": "2014-01-20-Comiendo-con-Uri",
+    "href": "/ls-jekyll/blog/2014/01/20/Comiendo-con-Uri/"
   } ,
 
   {
-    "text": "2014 04 09 cool truck",
-    "href": "/ls-jekyll/blog/2014/04/09/cool-truck/"
+    "text": "2014-01-19-Tuol-Sleng-Genocide-Museum",
+    "href": "/ls-jekyll/blog/2014/01/19/Tuol-Sleng-Genocide-Museum/"
   } ,
 
   {
-    "text": "2014 04 08 test2",
-    "href": "/ls-jekyll/blog/2014/04/08/test2/"
+    "text": "2014-01-19-The-great-Mekong-River-at-Phnom-Penh",
+    "href": "/ls-jekyll/blog/2014/01/19/The-great-Mekong-River-at-Phnom-Penh/"
   } ,
 
   {
-    "text": "2014 04 08 test 2 at 0 001",
-    "href": "/ls-jekyll/blog/2014/04/08/test-2-at-0-001/"
+    "text": "2014-01-19-Looks-like-we're-in-Phnom-Penh",
+    "href": "/ls-jekyll/blog/2014/01/19/Looks-like-we're-in-Phnom-Penh/"
   } ,
 
   {
-    "text": "2014 04 08 test 0 01",
-    "href": "/ls-jekyll/blog/2014/04/08/test-0-01/"
+    "text": "2014-01-19-Independence-Monument",
+    "href": "/ls-jekyll/blog/2014/01/19/Independence-Monument/"
   } ,
 
   {
-    "text": "2014 04 08 test 0 001",
-    "href": "/ls-jekyll/blog/2014/04/08/test-0-001/"
+    "text": "2014-01-19-Finally-having-dinner-at-Phnom-Penh",
+    "href": "/ls-jekyll/blog/2014/01/19/Finally-having-dinner-at-Phnom-Penh/"
   } ,
 
   {
-    "text": "2014 04 08 fuel",
-    "href": "/ls-jekyll/blog/2014/04/08/fuel/"
+    "text": "2014-01-18-Roads-conditions-is-the-worst-I've-seen--Dust,-detours,-pot-holes-",
+    "href": "/ls-jekyll/blog/2014/01/18/Roads-conditions-is-the-worst-I've-seen--Dust,-detours,-pot-holes-/"
   } ,
 
   {
-    "text": "2014 04 08 @ Tullys",
-    "href": "/ls-jekyll/blog/2014/04/08/@-Tullys/"
+    "text": "2014-01-18-Lunch-stop",
+    "href": "/ls-jekyll/blog/2014/01/18/Lunch-stop/"
   } ,
 
   {
-    "text": "2014 04 07 image 0 1",
-    "href": "/ls-jekyll/blog/2014/04/07/image-0-1/"
+    "text": "2014-01-18-Heading-to-Phnom-Phen",
+    "href": "/ls-jekyll/blog/2014/01/18/Heading-to-Phnom-Phen/"
   } ,
 
   {
-    "text": "2014 04 07 King's Hardware",
-    "href": "/ls-jekyll/blog/2014/04/07/King's-Hardware-/"
+    "text": "2014-01-18-Fried-rice-was-good-(except-the-meat)--Route-to-Phnom-Phen",
+    "href": "/ls-jekyll/blog/2014/01/18/Fried-rice-was-good-(except-the-meat)--Route-to-Phnom-Phen/"
   } ,
 
   {
-    "text": "2014 04 06 At the dog park",
-    "href": "/ls-jekyll/blog/2014/04/06/At-the-dog-park/"
+    "text": "2014-01-18-Countryside-red-dirt-road-",
+    "href": "/ls-jekyll/blog/2014/01/18/Countryside-red-dirt-road-/"
   } ,
 
   {
-    "text": "2014 04 06 @ Starbucks  Mnt Si in front of us",
-    "href": "/ls-jekyll/blog/2014/04/06/@-Starbucks--Mnt-Si-in-front-of-us--/"
+    "text": "2014-01-17-floating-village",
+    "href": "/ls-jekyll/blog/2014/01/17/floating-village/"
   } ,
 
   {
-    "text": "2014 04 05 Seattle Great Wheal",
-    "href": "/ls-jekyll/blog/2014/04/05/Seattle-Great-Wheal/"
+    "text": "2014-01-17-Live-band-on-Pub-Street",
+    "href": "/ls-jekyll/blog/2014/01/17/Live-band-on-Pub-Street/"
   } ,
 
   {
-    "text": "2014 04 02 Morros",
-    "href": "/ls-jekyll/blog/2014/04/02/Morros/"
+    "text": "2014-01-17-End-of-the-road-here-in-floating-village",
+    "href": "/ls-jekyll/blog/2014/01/17/End-of-the-road-here-in-floating-village/"
   } ,
 
   {
-    "text": "2014 04 02 Con los Morros",
-    "href": "/ls-jekyll/blog/2014/04/02/Con-los-Morros/"
+    "text": "2014-01-17-Crocodile-Farms-with-huge-crocodiles-",
+    "href": "/ls-jekyll/blog/2014/01/17/Crocodile-Farms-with-huge-crocodiles-/"
   } ,
 
   {
-    "text": "2014 04 01 Hello Google",
-    "href": "/ls-jekyll/blog/2014/04/01/Hello-Google/"
+    "text": "2014-01-17-Crocodile-Farm",
+    "href": "/ls-jekyll/blog/2014/01/17/Crocodile-Farm/"
   } ,
 
   {
-    "text": "2014 04 01 Cafe Ladri",
-    "href": "/ls-jekyll/blog/2014/04/01/Cafe-Ladri/"
+    "text": "2014-01-17-Cambodian-Boxing-with-the-locals",
+    "href": "/ls-jekyll/blog/2014/01/17/Cambodian-Boxing-with-the-locals/"
   } ,
 
   {
-    "text": "2014 04 01 @ the Gym",
-    "href": "/ls-jekyll/blog/2014/04/01/@-the-Gym/"
+    "text": "2014-01-17-Cambodia's-countryside-",
+    "href": "/ls-jekyll/blog/2014/01/17/Cambodia's-countryside-/"
   } ,
 
   {
-    "text": "2014 03 28 Fixing the Hoopty  Turned on  Good sign",
-    "href": "/ls-jekyll/blog/2014/03/28/Fixing-the-Hoopty--Turned-on--Good-sign--/"
+    "text": "2014-01-16-statue-with-no-head",
+    "href": "/ls-jekyll/blog/2014/01/16/statue-with-no-head/"
   } ,
 
   {
-    "text": "2014 03 28 @ Liberty",
-    "href": "/ls-jekyll/blog/2014/03/28/@-Liberty/"
+    "text": "2014-01-16-Tarantulas-on-Pub-Street!",
+    "href": "/ls-jekyll/blog/2014/01/16/Tarantulas-on-Pub-Street!/"
   } ,
 
   {
-    "text": "2014 03 27 Statue",
-    "href": "/ls-jekyll/blog/2014/03/27/Statue/"
+    "text": "2014-01-16-Siem-Reap-River-Bridge-",
+    "href": "/ls-jekyll/blog/2014/01/16/Siem-Reap-River-Bridge-/"
   } ,
 
   {
-    "text": "2014 03 26 Latona Pub",
-    "href": "/ls-jekyll/blog/2014/03/26/Latona-Pub/"
+    "text": "2014-01-16-Neak-Pean-pools",
+    "href": "/ls-jekyll/blog/2014/01/16/Neak-Pean-pools/"
   } ,
 
   {
-    "text": "2014 03 26 @ Broadcast Coffee",
-    "href": "/ls-jekyll/blog/2014/03/26/@-Broadcast-Coffee/"
+    "text": "2014-01-16-Last-temple--Finished--Nada--",
+    "href": "/ls-jekyll/blog/2014/01/16/Last-temple--Finished--Nada--/"
   } ,
 
   {
-    "text": "2014 03 25 Madison Park",
-    "href": "/ls-jekyll/blog/2014/03/25/Madison-Park/"
+    "text": "2014-01-16-Feeling-templed-out--",
+    "href": "/ls-jekyll/blog/2014/01/16/Feeling-templed-out--/"
   } ,
 
   {
-    "text": "2014 03 25 Gizmo new bed",
-    "href": "/ls-jekyll/blog/2014/03/25/Gizmo-new-bed/"
+    "text": "2014-01-16-Beeca-with-the-fallen-temples-and-enormous-trees",
+    "href": "/ls-jekyll/blog/2014/01/16/Beeca-with-the-fallen-temples-and-enormous-trees/"
   } ,
 
   {
-    "text": "2014 03 25 Becca @ the Attic",
-    "href": "/ls-jekyll/blog/2014/03/25/Becca-@-the-Attic/"
+    "text": "2014-01-16-Angkor-Wat-sunrise-selfie!!",
+    "href": "/ls-jekyll/blog/2014/01/16/Angkor-Wat-sunrise-selfie!!/"
   } ,
 
   {
-    "text": "2014 03 25 3rd and Union",
-    "href": "/ls-jekyll/blog/2014/03/25/3rd-and-Union/"
+    "text": "2014-01-16-Angkor-Wat-at-sunrise",
+    "href": "/ls-jekyll/blog/2014/01/16/Angkor-Wat-at-sunrise/"
   } ,
 
   {
-    "text": "2014 03 24 hate flash",
-    "href": "/ls-jekyll/blog/2014/03/24/hate-flash/"
+    "text": "2014-01-16-Amok-pork-chicken-with-rice--Cambodians-original-plate-",
+    "href": "/ls-jekyll/blog/2014/01/16/Amok-pork-chicken-with-rice--Cambodians-original-plate-/"
   } ,
 
   {
-    "text": "2014 03 24 Rock Salt Club",
-    "href": "/ls-jekyll/blog/2014/03/24/Rock-Salt-Club/"
+    "text": "2014-01-15-cafe-Latino-in-Siem-Reap-Cambodia",
+    "href": "/ls-jekyll/blog/2014/01/15/cafe-Latino-in-Siem-Reap-Cambodia/"
   } ,
 
   {
-    "text": "2014 03 24 Pike Place Market",
-    "href": "/ls-jekyll/blog/2014/03/24/Pike-Place-Market/"
+    "text": "2014-01-15-The-biggest-3D-Jigsaw-puzzle-in-the-world-",
+    "href": "/ls-jekyll/blog/2014/01/15/The-biggest-3D-Jigsaw-puzzle-in-the-world-/"
   } ,
 
   {
-    "text": "2014 03 23 Squirrel mode",
-    "href": "/ls-jekyll/blog/2014/03/23/Squirrel-mode-/"
+    "text": "2014-01-15-Temples-and-enormous-trees-",
+    "href": "/ls-jekyll/blog/2014/01/15/Temples-and-enormous-trees-/"
   } ,
 
   {
-    "text": "2014 03 23 Pretty Blossoms",
-    "href": "/ls-jekyll/blog/2014/03/23/Pretty-Blossoms/"
+    "text": "2014-01-15-Ta-Keo-(restoring-at-the-moment)",
+    "href": "/ls-jekyll/blog/2014/01/15/Ta-Keo-(restoring-at-the-moment)/"
   } ,
 
   {
-    "text": "2014 03 23 Leah and Jon",
-    "href": "/ls-jekyll/blog/2014/03/23/Leah-and-Jon/"
+    "text": "2014-01-15-Somewhere-outside-of-Bangkok-(heading-to-Cambodia)",
+    "href": "/ls-jekyll/blog/2014/01/15/Somewhere-outside-of-Bangkok-(heading-to-Cambodia)/"
   } ,
 
   {
-    "text": "2014 03 23 Gizmo is hungry",
-    "href": "/ls-jekyll/blog/2014/03/23/Gizmo-is-hungry/"
+    "text": "2014-01-15-Siem-Reap,-Cambodia",
+    "href": "/ls-jekyll/blog/2014/01/15/Siem-Reap,-Cambodia/"
   } ,
 
   {
-    "text": "2014 03 23 Blonde",
-    "href": "/ls-jekyll/blog/2014/03/23/Blonde/"
+    "text": "2014-01-15-Royal-palace-&-Phimeanakas-Temple",
+    "href": "/ls-jekyll/blog/2014/01/15/Royal-palace-&-Phimeanakas-Temple/"
   } ,
 
   {
-    "text": "2014 03 22 Waiting for Becca to shop at her store",
-    "href": "/ls-jekyll/blog/2014/03/22/Waiting-for-Becca-to-shop-at-her-store-/"
+    "text": "2014-01-15-On-a-tuk-tuk-to-Angkor-Wat",
+    "href": "/ls-jekyll/blog/2014/01/15/On-a-tuk-tuk-to-Angkor-Wat/"
   } ,
 
   {
-    "text": "2014 03 22 Playing Progressive",
-    "href": "/ls-jekyll/blog/2014/03/22/Playing-Progressive/"
+    "text": "2014-01-15-Budda-and-a-Hindu-temple",
+    "href": "/ls-jekyll/blog/2014/01/15/Budda-and-a-Hindu-temple/"
   } ,
 
   {
-    "text": "2014 03 22 Location where I proposed to Becca",
-    "href": "/ls-jekyll/blog/2014/03/22/Location-where-I-proposed-to-Becca/"
+    "text": "2014-01-15-Angkor-Wat-center",
+    "href": "/ls-jekyll/blog/2014/01/15/Angkor-Wat-center/"
   } ,
 
   {
-    "text": "2014 03 22 Jana's",
-    "href": "/ls-jekyll/blog/2014/03/22/Jana's/"
+    "text": "2014-01-15-Angkor-Wat",
+    "href": "/ls-jekyll/blog/2014/01/15/Angkor-Wat/"
   } ,
 
   {
-    "text": "2014 03 22 Gizmo favorite place",
-    "href": "/ls-jekyll/blog/2014/03/22/Gizmo-favorite-place/"
+    "text": "2014-01-15-Angkor-Thom",
+    "href": "/ls-jekyll/blog/2014/01/15/Angkor-Thom/"
   } ,
 
   {
-    "text": "2014 03 22 Blossoming cherry tree",
-    "href": "/ls-jekyll/blog/2014/03/22/Blossoming-cherry-tree/"
+    "text": "2014-01-14-Succesfull-completion-of-Thai-cooking-class--",
+    "href": "/ls-jekyll/blog/2014/01/14/Succesfull-completion-of-Thai-cooking-class--/"
   } ,
 
   {
-    "text": "2014 03 21 This are the creepiest dolls",
-    "href": "/ls-jekyll/blog/2014/03/21/This-are-the-creepiest-dolls-/"
+    "text": "2014-01-14-Jazz-Club",
+    "href": "/ls-jekyll/blog/2014/01/14/Jazz-Club/"
   } ,
 
   {
-    "text": "2014 03 20 Matador Burrito",
-    "href": "/ls-jekyll/blog/2014/03/20/Matador-Burrito/"
+    "text": "2014-01-14-Heading-to-Cambodia!!",
+    "href": "/ls-jekyll/blog/2014/01/14/Heading-to-Cambodia!!/"
   } ,
 
   {
-    "text": "2014 03 20 Ballard Coffee Works",
-    "href": "/ls-jekyll/blog/2014/03/20/Ballard-Coffee-Works/"
+    "text": "2014-01-13-Picking-up-ingredients-for-the-cooking-class",
+    "href": "/ls-jekyll/blog/2014/01/13/Picking-up-ingredients-for-the-cooking-class/"
   } ,
 
   {
-    "text": "2014 03 19 Mr  Gyros",
-    "href": "/ls-jekyll/blog/2014/03/19/Mr--Gyros/"
+    "text": "2014-01-12-Trek-waterfall",
+    "href": "/ls-jekyll/blog/2014/01/12/Trek-waterfall/"
   } ,
 
   {
-    "text": "2014 03 18 snsnnsdn sjdjdjdj sjdjdjdj sjdjsjcjcsnsjdjd sjdjdjdj sjdjdjdj sjdjdjdj js sjdjdjdj and sjsjsjsjsjjsjs sjsjsjsjsjjsjs sjsjsjsjsjjsjs sjdjdjdj sjdjdjdj sjsjsjsjsjjsjs sjsjsjsjsjjsjs sjsjsjsjsjjsjs sjsjsjsjsjjsjs",
-    "href": "/ls-jekyll/blog/2014/03/18/snsnnsdn-sjdjdjdj-sjdjdjdj-sjdjsjcjcsnsjdjd-sjdjdjdj-sjdjdjdj-sjdjdjdj-js-sjdjdjdj-and-sjsjsjsjsjjsjs-sjsjsjsjsjjsjs-sjsjsjsjsjjsjs-sjdjdjdj-sjdjdjdj-sjsjsjsjsjjsjs-sjsjsjsjsjjsjs-sjsjsjsjsjjsjs-sjsjsjsjsjjsjs/"
+    "text": "2014-01-12-That's-a-real-bonfire--",
+    "href": "/ls-jekyll/blog/2014/01/12/That's-a-real-bonfire--/"
   } ,
 
   {
-    "text": "2014 03 18 haha",
-    "href": "/ls-jekyll/blog/2014/03/18/haha/"
+    "text": "2014-01-12-River-next-to-our-camping-site",
+    "href": "/ls-jekyll/blog/2014/01/12/River-next-to-our-camping-site/"
   } ,
 
   {
-    "text": "2014 03 18 gizmo!!",
-    "href": "/ls-jekyll/blog/2014/03/18/gizmo!!/"
+    "text": "2014-01-12-Ready-to-leave-the-campsite",
+    "href": "/ls-jekyll/blog/2014/01/12/Ready-to-leave-the-campsite/"
   } ,
 
   {
-    "text": "2014 03 18 day sucks",
-    "href": "/ls-jekyll/blog/2014/03/18/day-sucks/"
+    "text": "2014-01-12-Our-hut",
+    "href": "/ls-jekyll/blog/2014/01/12/Our-hut/"
   } ,
 
   {
-    "text": "2014 03 18 Gizmo",
-    "href": "/ls-jekyll/blog/2014/03/18/Gizmo/"
+    "text": "2014-01-12-Longneck-Village",
+    "href": "/ls-jekyll/blog/2014/01/12/Longneck-Village/"
   } ,
 
   {
-    "text": "2014 03 18",
-    "href": "/ls-jekyll/blog/2014/03/18/"
+    "text": "2014-01-12-Elephant-ride",
+    "href": "/ls-jekyll/blog/2014/01/12/Elephant-ride/"
   } ,
 
   {
-    "text": "2014 03 17 Sunny Teriyaki",
-    "href": "/ls-jekyll/blog/2014/03/17/Sunny-Teriyaki-/"
+    "text": "2014-01-12-Becca-hiking-with-a-stick",
+    "href": "/ls-jekyll/blog/2014/01/12/Becca-hiking-with-a-stick/"
   } ,
 
   {
-    "text": "2014 03 17 Blueberry muffin",
-    "href": "/ls-jekyll/blog/2014/03/17/Blueberry-muffin/"
+    "text": "2014-01-12-Bamboo-rafting",
+    "href": "/ls-jekyll/blog/2014/01/12/Bamboo-rafting/"
   } ,
 
   {
-    "text": "2014 03 17",
-    "href": "/ls-jekyll/blog/2014/03/17/"
+    "text": "2014-01-11-creek-",
+    "href": "/ls-jekyll/blog/2014/01/11/creek-/"
   } ,
 
   {
-    "text": "2014 03 16 test",
-    "href": "/ls-jekyll/blog/2014/03/16/test/"
+    "text": "2014-01-11-Village's-playground-",
+    "href": "/ls-jekyll/blog/2014/01/11/Village's-playground-/"
   } ,
 
   {
-    "text": "2014 03 16 blah",
-    "href": "/ls-jekyll/blog/2014/03/16/blah/"
+    "text": "2014-01-11-Termite-mound",
+    "href": "/ls-jekyll/blog/2014/01/11/Termite-mound/"
   } ,
 
   {
-    "text": "2014 03 16 Waiting for Becca",
-    "href": "/ls-jekyll/blog/2014/03/16/Waiting-for-Becca/"
+    "text": "2014-01-11-Lunch-on-our-2nd-day-of-the-trek",
+    "href": "/ls-jekyll/blog/2014/01/11/Lunch-on-our-2nd-day-of-the-trek/"
   } ,
 
   {
-    "text": "2014 03 16 Storyville Coffee",
-    "href": "/ls-jekyll/blog/2014/03/16/Storyville-Coffee/"
+    "text": "2014-01-11-Leaving-the-tribe-village--Rice-plantation-in-the-background-",
+    "href": "/ls-jekyll/blog/2014/01/11/Leaving-the-tribe-village--Rice-plantation-in-the-background-/"
   } ,
 
   {
-    "text": "2014 03 16 @ Denny's",
-    "href": "/ls-jekyll/blog/2014/03/16/@-Denny's-/"
+    "text": "2014-01-11-Karem-Village-(tribe-village)",
+    "href": "/ls-jekyll/blog/2014/01/11/Karem-Village-(tribe-village)/"
   } ,
 
   {
-    "text": "2014 03 16",
-    "href": "/ls-jekyll/blog/2014/03/16/"
+    "text": "2014-01-11-Just-hiked-this-peak--300m-elevation-height-gain",
+    "href": "/ls-jekyll/blog/2014/01/11/Just-hiked-this-peak--300m-elevation-height-gain/"
   } ,
 
   {
-    "text": "2014 03 15 Nice walk with Gizmo by the Lake WA",
-    "href": "/ls-jekyll/blog/2014/03/15/Nice-walk-with-Gizmo-by-the-Lake-WA/"
+    "text": "2014-01-11-Honey-in-tree--",
+    "href": "/ls-jekyll/blog/2014/01/11/Honey-in-tree--/"
   } ,
 
   {
-    "text": "2014 03 13 on the bus",
-    "href": "/ls-jekyll/blog/2014/03/13/on-the-bus/"
+    "text": "2014-01-11-Hiking-down-hiill",
+    "href": "/ls-jekyll/blog/2014/01/11/Hiking-down-hiill/"
   } ,
 
   {
-    "text": "2014 03 13 @ Ivars",
-    "href": "/ls-jekyll/blog/2014/03/13/@-Ivars/"
+    "text": "2014-01-11-Heading-to-spot-#2",
+    "href": "/ls-jekyll/blog/2014/01/11/Heading-to-spot-%232/"
   } ,
 
   {
-    "text": "2014 03 12 @ Market Arms",
-    "href": "/ls-jekyll/blog/2014/03/12/@-Market-Arms/"
+    "text": "2014-01-11-Bonfire-in-the-village",
+    "href": "/ls-jekyll/blog/2014/01/11/Bonfire-in-the-village/"
   } ,
 
   {
-    "text": "2014 03 11 test",
-    "href": "/ls-jekyll/blog/2014/03/11/test/"
+    "text": "2014-01-11-Access-to-WiFi-in-the-tribe-village",
+    "href": "/ls-jekyll/blog/2014/01/11/Access-to-WiFi-in-the-tribe-village/"
   } ,
 
   {
-    "text": "2014 03 11 no image",
-    "href": "/ls-jekyll/blog/2014/03/11/no-image/"
+    "text": "2014-01-10-trek1",
+    "href": "/ls-jekyll/blog/2014/01/10/trek1/"
   } ,
 
   {
-    "text": "2014 03 11 Mexican flag",
-    "href": "/ls-jekyll/blog/2014/03/11/Mexican-flag/"
+    "text": "2014-01-10-Waterfall",
+    "href": "/ls-jekyll/blog/2014/01/10/Waterfall/"
   } ,
 
   {
-    "text": "2014 03 11 Latona Pub",
-    "href": "/ls-jekyll/blog/2014/03/11/Latona-Pub/"
+    "text": "2014-01-10-Trek-2-break-time",
+    "href": "/ls-jekyll/blog/2014/01/10/Trek-2-break-time/"
   } ,
 
   {
-    "text": "2014 03 11 I can see downtown Seattle",
-    "href": "/ls-jekyll/blog/2014/03/11/I-can-see-downtown-Seattle/"
+    "text": "2014-01-10-Trek---creek",
+    "href": "/ls-jekyll/blog/2014/01/10/Trek---creek/"
   } ,
 
   {
-    "text": "2014 03 11 Fist map",
-    "href": "/ls-jekyll/blog/2014/03/11/Fist-map/"
+    "text": "2014-01-10-The-princess-just-walked-in-this-temple--Police-and-entourage-everywhere--",
+    "href": "/ls-jekyll/blog/2014/01/10/The-princess-just-walked-in-this-temple--Police-and-entourage-everywhere--/"
   } ,
 
   {
-    "text": "2014 03 11 Ellensburg Valley",
-    "href": "/ls-jekyll/blog/2014/03/11/Ellensburg-Valley/"
+    "text": "2014-01-10-Starting-the-trek--Nice-group-of-people--",
+    "href": "/ls-jekyll/blog/2014/01/10/Starting-the-trek--Nice-group-of-people--/"
   } ,
 
   {
-    "text": "2014 03 11 Cascades 2",
-    "href": "/ls-jekyll/blog/2014/03/11/Cascades-2/"
+    "text": "2014-01-10-Rice-Fields",
+    "href": "/ls-jekyll/blog/2014/01/10/Rice-Fields/"
   } ,
 
   {
-    "text": "2014 03 11 Cascades",
-    "href": "/ls-jekyll/blog/2014/03/11/Cascades/"
+    "text": "2014-01-10-Our-hotel-in-the-jungle",
+    "href": "/ls-jekyll/blog/2014/01/10/Our-hotel-in-the-jungle/"
   } ,
 
   {
-    "text": "2014 03 11",
-    "href": "/ls-jekyll/blog/2014/03/11/"
+    "text": "2014-01-10-No-light-at-the-hostel-but-using-light-candles-",
+    "href": "/ls-jekyll/blog/2014/01/10/No-light-at-the-hostel-but-using-light-candles-/"
   } ,
 
   {
-    "text": "2014 03 10 out of Sunnyside",
-    "href": "/ls-jekyll/blog/2014/03/10/out-of-Sunnyside-/"
+    "text": "2014-01-10-Lunchtime",
+    "href": "/ls-jekyll/blog/2014/01/10/Lunchtime/"
   } ,
 
   {
-    "text": "2014 03 10 Mom's eye surgery",
-    "href": "/ls-jekyll/blog/2014/03/10/Mom's-eye-surgery/"
+    "text": "2014-01-10-Little-farm-market--",
+    "href": "/ls-jekyll/blog/2014/01/10/Little-farm-market--/"
   } ,
 
   {
-    "text": "2014 03 08 Sun is shinning a little stronger",
-    "href": "/ls-jekyll/blog/2014/03/08/Sun-is-shinning-a-little-stronger-/"
+    "text": "2014-01-10-High-up-on-the-mountains",
+    "href": "/ls-jekyll/blog/2014/01/10/High-up-on-the-mountains/"
   } ,
 
   {
-    "text": "2014 03 08 Love this view of Mnt Adams and Mnt Rainier (when it's not cloudy)",
-    "href": "/ls-jekyll/blog/2014/03/08/Love-this-view-of-Mnt-Adams-and-Mnt-Rainier-(when-it's-not-cloudy)-/"
+    "text": "2014-01-10-BMP-Resudences-(guesthouse)",
+    "href": "/ls-jekyll/blog/2014/01/10/BMP-Resudences-(guesthouse)/"
   } ,
 
   {
-    "text": "2014 03 08 Exit 78 on I 90",
-    "href": "/ls-jekyll/blog/2014/03/08/Exit-78-on-I-90/"
+    "text": "2014-01-09-Rumbo-a-Chaing-Mai",
+    "href": "/ls-jekyll/blog/2014/01/09/Rumbo-a-Chaing-Mai/"
   } ,
 
   {
-    "text": "2014 03 03 @ El Borracho in Ballard",
-    "href": "/ls-jekyll/blog/2014/03/03/@-El-Borracho-in-Ballard/"
+    "text": "2014-01-09-Party-Train-at-10AM--funnest-train-ever!!-",
+    "href": "/ls-jekyll/blog/2014/01/09/Party-Train-at-10AM--funnest-train-ever!!-/"
   } ,
 
   {
-    "text": "2014 03 02 Taza de Mexico",
-    "href": "/ls-jekyll/blog/2014/03/02/Taza-de-Mexico-/"
+    "text": "2014-01-09-Friends-in-train-to-Chiang-Mai",
+    "href": "/ls-jekyll/blog/2014/01/09/Friends-in-train-to-Chiang-Mai/"
   } ,
 
   {
-    "text": "2014 03 02 Blas",
-    "href": "/ls-jekyll/blog/2014/03/02/Blas/"
+    "text": "2014-01-09-Chiang-Mai-temple",
+    "href": "/ls-jekyll/blog/2014/01/09/Chiang-Mai-temple/"
+  } ,
+
+  {
+    "text": "2014-01-09-Becca-sleeping-on-the-sleeper-train-to-Chiang-Mai",
+    "href": "/ls-jekyll/blog/2014/01/09/Becca-sleeping-on-the-sleeper-train-to-Chiang-Mai/"
+  } ,
+
+  {
+    "text": "2014-01-09-A-nice-event-less-afternoon-at-Lop-Buri",
+    "href": "/ls-jekyll/blog/2014/01/09/A-nice-event-less-afternoon-at-Lop-Buri/"
+  } ,
+
+  {
+    "text": "2014-01-08-steering-a-chain-of-barges-from-behind",
+    "href": "/ls-jekyll/blog/2014/01/08/steering-a-chain-of-barges-from-behind/"
+  } ,
+
+  {
+    "text": "2014-01-08-Thai-Elephants",
+    "href": "/ls-jekyll/blog/2014/01/08/Thai-Elephants/"
+  } ,
+
+  {
+    "text": "2014-01-08-Monkeyville",
+    "href": "/ls-jekyll/blog/2014/01/08/Monkeyville/"
+  } ,
+
+  {
+    "text": "2014-01-08-Monkeys-in-Lop-Buri",
+    "href": "/ls-jekyll/blog/2014/01/08/Monkeys-in-Lop-Buri/"
+  } ,
+
+  {
+    "text": "2014-01-08-Lop-Buri,-Thaliand",
+    "href": "/ls-jekyll/blog/2014/01/08/Lop-Buri,-Thaliand/"
+  } ,
+
+  {
+    "text": "2014-01-08-Lop-Buri,-Thailand",
+    "href": "/ls-jekyll/blog/2014/01/08/Lop-Buri,-Thailand/"
+  } ,
+
+  {
+    "text": "2014-01-08-Leo-Beer--Best-beer-in-Thailand--Needs-a-beer-holder-to-keep-it-cold-in-these-temperatures",
+    "href": "/ls-jekyll/blog/2014/01/08/Leo-Beer--Best-beer-in-Thailand--Needs-a-beer-holder-to-keep-it-cold-in-these-temperatures/"
+  } ,
+
+  {
+    "text": "2014-01-08-Found-it--The-head-of-the-sandstone-Buddha",
+    "href": "/ls-jekyll/blog/2014/01/08/Found-it--The-head-of-the-sandstone-Buddha/"
+  } ,
+
+  {
+    "text": "2014-01-07-Zumba-at-the-Tesco-grocery-store",
+    "href": "/ls-jekyll/blog/2014/01/07/Zumba-at-the-Tesco-grocery-store/"
+  } ,
+
+  {
+    "text": "2014-01-07-Wat-Pho-(reclining-Buddha)",
+    "href": "/ls-jekyll/blog/2014/01/07/Wat-Pho-(reclining-Buddha)/"
+  } ,
+
+  {
+    "text": "2014-01-07-Thai-King",
+    "href": "/ls-jekyll/blog/2014/01/07/Thai-King/"
+  } ,
+
+  {
+    "text": "2014-01-07-Relaxing-along-the-road-with-a-beers-and-a-map--",
+    "href": "/ls-jekyll/blog/2014/01/07/Relaxing-along-the-road-with-a-beers-and-a-map--/"
+  } ,
+
+  {
+    "text": "2014-01-07-Magnum?-Magnum!!",
+    "href": "/ls-jekyll/blog/2014/01/07/Magnum%3F-Magnum!!/"
+  } ,
+
+  {
+    "text": "2014-01-07-Chorrillo-sausage?-(who-thinks-he'll-get-diarrhea?)",
+    "href": "/ls-jekyll/blog/2014/01/07/Chorrillo-sausage%3F-(who-thinks-he'll-get-diarrhea%3F)/"
+  } ,
+
+  {
+    "text": "2014-01-07-Bangkok's-train-station--Heading-to-Ayuthaya",
+    "href": "/ls-jekyll/blog/2014/01/07/Bangkok's-train-station--Heading-to-Ayuthaya/"
+  } ,
+
+  {
+    "text": "2014-01-07-Ayutthaya-Ruins",
+    "href": "/ls-jekyll/blog/2014/01/07/Ayutthaya-Ruins/"
+  } ,
+
+  {
+    "text": "2014-01-07-A-hostel-by-the-ruins",
+    "href": "/ls-jekyll/blog/2014/01/07/A-hostel-by-the-ruins/"
+  } ,
+
+  {
+    "text": "2014-01-06-Thai-Ceremony",
+    "href": "/ls-jekyll/blog/2014/01/06/Thai-Ceremony/"
+  } ,
+
+  {
+    "text": "2014-01-06-In-a-tuk-tuk",
+    "href": "/ls-jekyll/blog/2014/01/06/In-a-tuk-tuk/"
+  } ,
+
+  {
+    "text": "2014-01-06-Guess-which-beer-bottle-is-mine?",
+    "href": "/ls-jekyll/blog/2014/01/06/Guess-which-beer-bottle-is-mine%3F/"
+  } ,
+
+  {
+    "text": "2014-01-06-Grand-Palace",
+    "href": "/ls-jekyll/blog/2014/01/06/Grand-Palace/"
+  } ,
+
+  {
+    "text": "2014-01-06-Becca-at-Grand-Palace-",
+    "href": "/ls-jekyll/blog/2014/01/06/Becca-at-Grand-Palace-/"
+  } ,
+
+  {
+    "text": "2014-01-06-Bangkok's-sunrise-at-7am",
+    "href": "/ls-jekyll/blog/2014/01/06/Bangkok's-sunrise-at-7am/"
+  } ,
+
+  {
+    "text": "2014-01-06-Amazed-there's-plants-growing-from-contaminated-water",
+    "href": "/ls-jekyll/blog/2014/01/06/Amazed-there's-plants-growing-from-contaminated-water/"
+  } ,
+
+  {
+    "text": "2014-01-05-The-line-for-a-public-Taxi-at-the-airport-and-we're-dead-tired--",
+    "href": "/ls-jekyll/blog/2014/01/05/The-line-for-a-public-Taxi-at-the-airport-and-we're-dead-tired--/"
+  } ,
+
+  {
+    "text": "2014-01-05-People-on-the-railroad-including-me-",
+    "href": "/ls-jekyll/blog/2014/01/05/People-on-the-railroad-including-me-/"
+  } ,
+
+  {
+    "text": "2014-01-05-Just-outside-the-hotel-in-Bangkok,-Thailand",
+    "href": "/ls-jekyll/blog/2014/01/05/Just-outside-the-hotel-in-Bangkok,-Thailand/"
+  } ,
+
+  {
+    "text": "2014-01-05-Incheon,-Korea",
+    "href": "/ls-jekyll/blog/2014/01/05/Incheon,-Korea/"
+  } ,
+
+  {
+    "text": "2014-01-05-First-breakfast-in-Bangkok--not-so-authentic-but-will-have-more-time-for-that--Let's-eat!",
+    "href": "/ls-jekyll/blog/2014/01/05/First-breakfast-in-Bangkok--not-so-authentic-but-will-have-more-time-for-that--Let's-eat!/"
+  } ,
+
+  {
+    "text": "2014-01-05-Buddist-Shrine-in-front-of-a-busy-mall",
+    "href": "/ls-jekyll/blog/2014/01/05/Buddist-Shrine-in-front-of-a-busy-mall/"
+  } ,
+
+  {
+    "text": "2014-01-05-@-Bangkok's-airport-immigration",
+    "href": "/ls-jekyll/blog/2014/01/05/@-Bangkok's-airport-immigration/"
+  } ,
+
+  {
+    "text": "2014-01-04-test-again",
+    "href": "/ls-jekyll/blog/2014/01/04/test-again/"
+  } ,
+
+  {
+    "text": "2014-01-04-Southeast-Asia-here-we-come!!",
+    "href": "/ls-jekyll/blog/2014/01/04/Southeast-Asia-here-we-come!!/"
+  } ,
+
+  {
+    "text": "2014-01-04-Orale",
+    "href": "/ls-jekyll/blog/2014/01/04/Orale/"
+  } ,
+
+  {
+    "text": "2014-01-04-CamelBak-is-ready-for-the-trip-with-Giz-on-the-back",
+    "href": "/ls-jekyll/blog/2014/01/04/CamelBak-is-ready-for-the-trip-with-Giz-on-the-back/"
   } 
 
 ])

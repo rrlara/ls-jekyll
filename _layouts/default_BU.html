@@ -1,0 +1,207 @@
+---
+title: ''
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>LeapSpotLeap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{site.baseurl}}/bootstrap.css" rel="stylesheet">
+
+    <link href="{{site.baseurl}}/fontstyles.css" rel="stylesheet">
+
+<!--     <link href='{{site.baseurl}}/site.css' rel='stylesheet' /> -->
+
+    <!-- Custom styles for this template -->
+    <link href="{{site.baseurl}}/blog.css" rel="stylesheet">
+
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="col-sm-12 clearfix logoWrapper">
+      <div class="logoHeader container clearfix">
+        <div class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+            <a href="{{site.baseurl}}/" style="font-size:30px;font-weight:bold;"><span>LeapSpot</span></a>
+
+          </div>
+          <div class="navbar-collapse collapse" style="height: 1px;">
+
+            {% include socialmedia.html %}
+            
+            <div class="sidebar-module">
+            
+            
+
+
+
+            </div>
+            <div class="sidebar-module">
+              
+            </div>
+          </div>
+
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </div>
+
+    </div>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="blog-nav">
+
+        </nav>
+      </div>
+    </div>
+
+    <div class="container">
+
+
+
+      <div class="row">
+
+        <div class="col-sm-12 blog-main">
+        
+
+          {{content}}
+
+        </div><!-- /.blog-main -->
+
+        <div id="archiveMain" class="col-sm-3 blog-sidebar" style="margin-top:40px;">
+          <div class="sidebar-module sidebar-module-inset">
+
+          </div>
+
+          {% include socialmedia.html %}
+
+          <div class="sidebar-module">
+            
+
+
+
+          </div>
+          <div class="sidebar-module">
+            
+          </div>
+          </div>
+
+
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+      <!-- <div class="logoHeader container clearfix backtotop">
+        <a href="#">Back to top</a>
+      </div> -->
+
+    </div><!-- /.container -->
+    </div>
+    <div class="col-sm-12 clearfix logoWrapper footerHeight">
+      <div class="logoHeader container clearfix">
+        <span class="footerText">© 2009- 2014 Spatial Development International All Rights Reserved.</span>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.9.0.js"></script>
+    <script src="http://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
+    <script src="http://twitter.github.com/hogan.js/builds/2.0.0/hogan-2.0.0.js"></script>
+    <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+    <script>
+    $(".month").on("click", function () {
+
+      // $( this ).toggleClass( "active" );
+
+	});
+
+    // $('.mapContainer').click(function(){
+
+    //     console.log(this);
+
+    //     $(this).toggleClass('expandMap collapseMap');
+        
+    // })
+
+
+  $('.article').click(function(){
+
+        $(".article").removeClass('moveLeft');
+        
+        console.log(this);
+
+        $(this).toggleClass('moveLeft moveRight');
+        
+    })
+
+  $( document ).ready(function() {
+  // Handler for .ready() called.
+
+  $(".splash img").each(function() {
+    if($(this).attr("src") == null) {
+      // $(".add_pdt_img_nc").remove();
+      console.log("No image found");
+    }
+
+    $(this).error(function () { 
+        // $(this).hide();
+        // $(this).attr("src") == '/img/NewSDLogo.png'
+        $(this).attr('src', "img/the-narrows.jpg");
+    });
+ });
+
+    // $(".postImage img").each(function(){
+    //       if($(this).attr("src") == null
+    //        {
+    //            $(this).remove();
+    //            console.log("dead image");
+    //         }
+    //   });
+});
+
+
+ 
+
+  // var search = $('#search').typeahead({
+  //     prefetch: '/search.json',
+  //     template: [
+  //         '<p class="post-name">{{value}}</p>',
+  //         '<p class="post-date">{{date}}</p>'
+  //         ].join(''),
+  //     engine: Hogan
+  // });
+  // search.on('typeahead:selected', function (evt, data) {
+  //     window.location = data.url;
+  // });
+  </script>
+
+  </body>
+</html>

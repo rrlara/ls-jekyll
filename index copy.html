@@ -1,0 +1,118 @@
+---
+layout: default
+section: blog
+---
+
+<div class='listing col7 margin15 pad4h'>
+  {% for item in paginator.posts %}
+    {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
+    {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
+
+    
+
+    {% if date != ndate %}
+      <!-- <h3 id="{{item.date | date: '%B %Y'}}" class='month'></h3> -->
+    {% endif %}
+    <div id="{{item.title}}" class="article clearfix moveRight">
+
+          <!-- <div class="mapContainer expandMap"><span id='{{item.title}}' class="seeMap"><i class="fa fa-map-marker"> See map</i></span>
+            
+            <div class="googlemap">
+              <a href="https://www.google.com/maps/place/{{item.lat}},{{item.lng}}" target="_blank"><img src="http://maps.googleapis.com/maps/api/staticmap?center={{item.lat}},{{item.lng}}&zoom=13&size=300x100&maptype=terrain&markers=color:red%7Csize:small%7C{{item.lat}},{{item.lng}}" >
+            </div></a>
+        </div> -->
+
+
+          {% if item.image %}
+            {% if item.splash contains 'http' %}
+              {% capture url %}{{item.image}}{% endcapture %}
+            {% else %}
+              {% capture url %}{{site.baseurl}}{{item.image}}/{% endcapture %}
+            {% endif %}
+
+            <div class='splash'>
+              <div style="position:absolute;margin-left:10px;margin-top:10px;z-index:4;">
+                  <div class='date clearfix'>
+                    <div class="dateText">{{item.date | date:"%B %d, %Y"}}</div>
+                  </div>
+              
+                  <div class="itemTitle">
+                  <a class='item'>{{item.title  | upcase}}</a>
+                  </div>
+                  <div class="memberConatainer clearfix">
+                  {% if item.members %}
+                    {% for member in site.data.members %}
+                      {% if member.name == {{item.members}} %}
+                      <img class="memberThumbnail" width="30px" height="30px" src='{{site.baseurl}}/img/members/{{member.pic}}' alt='' />
+                      {% endif %}
+                    {% endfor %}
+                  <strong>{{item.members}}</strong>
+                  {% else %}
+
+                    <img class="memberThumbnail thumbnailProfile" width="30px" height="30px" src='https://s3-us-west-2.amazonaws.com/worldcup14/profileImage.jpg' alt='' />
+                    <strong style="margin-left:5px;">Rene Rodriguez</strong>
+                  {% endif %}
+                </div>
+                </div>
+                
+              <img class="postImage" max-width="848px" src='{{awsurl}}{{awsbucket}}{{item.image}}' alt='' />
+              <div class="fill-darken2 pin"></div>
+            </div>
+
+          {% endif %}
+
+        {% if item.summary %}
+        <div class="summeryText" >{{ item.summary }}<a href="{{site.baseurl}}{{item.url}}"><br><span>read more</span><a></div>
+        {% endif %}
+
+        {% if item.tags != empty %}
+          {% for item in item.tags %}
+          <a class="label label-info" href="{{site.baseurl}}/tags/{{ item }}"><i class="fa fa-tags"></i>  {{ item }}</span></a>
+          {% endfor %}
+        {% endif %}
+
+
+         {% if item.lng %}
+        <!-- <div class="mapContainer collapseMap"><span id='{{item.title}}' class="seeMap"><i class="fa fa-map-marker"> See map</i></span>
+            
+            <div class="googlemap">
+              <a href="https://www.google.com/maps/place/{{item.lat}},{{item.lng}}" target="_blank"><img src="http://maps.googleapis.com/maps/api/staticmap?center={{item.lat}},{{item.lng}}&zoom=13&size=290x100&maptype=roadmap&markers=color:red%7Csize:small%7C{{item.lat}},{{item.lng}}" >
+            </div></a>
+        </div> -->
+        {% endif %}
+
+
+
+
+      </div>
+      {% endfor %}
+
+
+      {% if paginator.total_pages > 1 %}
+          <div class="paginationCenter" style="font-size: 18px;">
+            <div class="previousLeft" style="float:left;">
+              {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+              {% else %}
+                <span>&laquo; Prev</span>
+              {% endif %}
+            </div>
+
+            <div class="nextRight" style="float:right;">
+              {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+              {% else %}
+                <span>Next &raquo;</span>
+              {% endif %}
+            </div>
+          </div>
+        {% endif %}
+
+        <a href="/blog/2/" class="blog-fixed-next round-left fr pager-next button rcon next">2</a>
+
+     
+
+</div>
+<div class='col9 margin15 pad4'>
+  <a href=''></a>
+</div>
