@@ -279,7 +279,7 @@ small {font-size: 13px;}
 }
 
 .bottom-gradient {
-	background: url("assets/img/black-gradient-80percent.png") center bottom repeat-x;
+	background: url("img/black-gradient-80percent.png") center bottom repeat-x;
 	height:100%;
 }
 
@@ -290,7 +290,7 @@ small {font-size: 13px;}
 }
 
 .post-cover.main .bottom-gradient {
-	background: url("assets/img/gradient-100_1063px-height.png") center bottom repeat-x;
+	background: url("img/gradient-100_1063px-height.png") center bottom repeat-x;
 }
 
 .top-row .post {
@@ -319,7 +319,7 @@ small {font-size: 13px;}
 }
 
 .post-row .bottom-gradient {
-	background: transparent url("assets/img/black-gradient-90percent.png") center bottom repeat-x;
+	background: transparent url("img/black-gradient-90percent.png") center bottom repeat-x;
 	height: 452px;
 }
 
@@ -1047,7 +1047,7 @@ img.fademe:hover {
 }
 */
 .post-cover.main .bottom-gradient {
-	background: url("assets/img/black-gradient-90percent.png") center bottom repeat-x;
+	background: url("img/black-gradient-90percent.png") center bottom repeat-x;
 	/*height:100%;*/
 }
 
@@ -1181,7 +1181,7 @@ h1.post-title {
 }
 
 .post-row .bottom-gradient {
-	background: transparent url("assets/img/black-gradient-80percent.png") center bottom repeat-x;
+	background: transparent url("img/black-gradient-80percent.png") center bottom repeat-x;
 	height: 577px;
 }
 /*
