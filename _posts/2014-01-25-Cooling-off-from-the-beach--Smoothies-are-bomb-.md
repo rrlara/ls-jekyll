@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-25-Cooling-off-from-the-beach--Smoothies-are-bomb-
+title: Cooling off from the beach. Smoothies are bomb 
 category: blog
 lat: 12.00115
 lng: 102.29547

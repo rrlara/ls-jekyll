@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Seoul-Station-in-Seoul--
+title: Seoul Station in Seoul. 
 category: blog
 lat: 37.55417
 lng: 126.97022

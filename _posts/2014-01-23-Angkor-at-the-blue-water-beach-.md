@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-23-Angkor-at-the-blue-water-beach-
+title: Angkor at the blue water beach 
 category: blog
 lat: 10.58145
 lng: 103.3064

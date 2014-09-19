@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-27-White-sand-beach-in-Koh-Chang
+title: White sand beach in Koh Chang
 category: blog
 lat: 12.11039
 lng: 102.26882

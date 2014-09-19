@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Hiking-down-hiill
+title: Hiking down hiill
 category: blog
 lat: 18.61954
 lng: 98.63129

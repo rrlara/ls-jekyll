@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-19-Finally-having-dinner-at-Phnom-Penh
+title: Finally having dinner at Phnom Penh
 category: blog
 lat: 11.57059
 lng: 104.92944

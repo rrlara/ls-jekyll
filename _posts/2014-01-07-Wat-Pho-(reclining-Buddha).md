@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-07-Wat-Pho-(reclining-Buddha)
+title: Wat Pho (reclining Buddha)
 category: blog
 lat: 13.74651
 lng: 100.49212

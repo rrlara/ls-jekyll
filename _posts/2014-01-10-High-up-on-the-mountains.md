@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-High-up-on-the-mountains
+title: High up on the mountains
 category: blog
 lat: 18.62994
 lng: 98.66132

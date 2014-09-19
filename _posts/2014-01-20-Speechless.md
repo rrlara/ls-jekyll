@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-20-Speechless
+title: Speechless
 category: blog
 lat: 11.48444
 lng: 104.90235

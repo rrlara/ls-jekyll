@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-17-End-of-the-road-here-in-floating-village
+title: End of the road here in floating village
 category: blog
 lat: 13.25795
 lng: 103.82362

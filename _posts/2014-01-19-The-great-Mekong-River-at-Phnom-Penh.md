@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-19-The-great-Mekong-River-at-Phnom-Penh
+title: The great Mekong River at Phnom Penh
 category: blog
 lat: 11.57088
 lng: 104.93018

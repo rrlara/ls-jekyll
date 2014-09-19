@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-08-Lop-Buri,-Thaliand
+title: Lop Buri, Thaliand
 category: blog
 lat: 14.80135
 lng: 100.61446

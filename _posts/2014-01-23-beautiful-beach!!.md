@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-23-beautiful-beach!!
+title: beautiful beach!!
 category: blog
 lat: 10.57881
 lng: 103.31018

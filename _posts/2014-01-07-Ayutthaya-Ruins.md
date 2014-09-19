@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-07-Ayutthaya-Ruins
+title: Ayutthaya Ruins
 category: blog
 lat: 14.35777
 lng: 100.56737

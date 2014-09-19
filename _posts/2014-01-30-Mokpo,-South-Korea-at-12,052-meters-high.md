@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Mokpo,-South-Korea-at-12,052-meters-high
+title: Mokpo, South Korea at 12,052 meters high
 category: blog
 lat: 34.10731
 lng: 126.75648

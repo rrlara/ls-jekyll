@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-This-is-real-Korean-food--Yum!!
+title: This is real Korean food. Yum!!
 category: blog
 lat: 37.57488
 lng: 126.98472

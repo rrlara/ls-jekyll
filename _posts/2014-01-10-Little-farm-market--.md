@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-Little-farm-market--
+title: Little farm market. 
 category: blog
 lat: 18.60004
 lng: 98.82158

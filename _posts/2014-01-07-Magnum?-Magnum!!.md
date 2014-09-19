@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-07-Magnum?-Magnum!!
+title: Magnum? Magnum!!
 category: blog
 lat: 13.74649
 lng: 100.49215

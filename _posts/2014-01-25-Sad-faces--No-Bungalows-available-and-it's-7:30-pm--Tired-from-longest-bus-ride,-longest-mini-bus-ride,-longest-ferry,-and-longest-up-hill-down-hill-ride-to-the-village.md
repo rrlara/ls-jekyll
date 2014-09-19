@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-25-Sad-faces--No-Bungalows-available-and-it's-7:30-pm--Tired-from-longest-bus-ride,-longest-mini-bus-ride,-longest-ferry,-and-longest-up-hill-down-hill-ride-to-the-village
+title: Sad faces. No Bungalows available and it's 7:30 pm. Tired from longest bus ride, longest mini bus ride, longest ferry, and longest up hill down hill ride to the village
 category: blog
 lat: 12.00091
 lng: 102.29685

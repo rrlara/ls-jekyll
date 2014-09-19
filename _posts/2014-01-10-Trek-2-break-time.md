@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-Trek-2-break-time
+title: Trek 2 break time
 category: blog
 lat: 18.64053
 lng: 98.66549

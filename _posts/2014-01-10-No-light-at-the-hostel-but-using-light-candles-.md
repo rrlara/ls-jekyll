@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-No-light-at-the-hostel-but-using-light-candles-
+title: No light at the hostel but using light candles 
 category: blog
 lat: 18.77653
 lng: 98.99033

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-06-Guess-which-beer-bottle-is-mine?
+title: Guess which beer bottle is mine?
 category: blog
 lat: 13.7487
 lng: 100.53167

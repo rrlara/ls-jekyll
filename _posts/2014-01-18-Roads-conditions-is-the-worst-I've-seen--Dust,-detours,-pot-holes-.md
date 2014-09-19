@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-18-Roads-conditions-is-the-worst-I've-seen--Dust,-detours,-pot-holes-
+title: Roads conditions is the worst I've seen. Dust, detours, pot holes 
 category: blog
 lat: 12.03998
 lng: 104.98646

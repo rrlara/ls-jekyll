@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-Beeca-with-the-fallen-temples-and-enormous-trees
+title: Beeca with the fallen temples and enormous trees
 category: blog
 lat: 13.43437
 lng: 103.88991

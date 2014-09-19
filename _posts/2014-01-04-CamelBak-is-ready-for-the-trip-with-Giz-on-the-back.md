@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-04-CamelBak-is-ready-for-the-trip-with-Giz-on-the-back
+title: CamelBak is ready for the trip with Giz on the back
 category: blog
 lat: 47.60293
 lng: -122.30847

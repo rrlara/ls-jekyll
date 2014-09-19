@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-23-Koh-Tas,-Cambodia-
+title: Koh Tas, Cambodia 
 category: blog
 lat: 10.60437
 lng: 103.43062

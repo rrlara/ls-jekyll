@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-Angkor-Wat-at-sunrise
+title: Angkor Wat at sunrise
 category: blog
 lat: 13.41305
 lng: 103.86415

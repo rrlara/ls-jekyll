@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-The-biggest-3D-Jigsaw-puzzle-in-the-world-
+title: The biggest 3D Jigsaw puzzle in the world 
 category: blog
 lat: 13.44345
 lng: 103.85675

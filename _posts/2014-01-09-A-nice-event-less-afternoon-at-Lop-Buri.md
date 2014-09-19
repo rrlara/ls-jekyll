@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-09-A-nice-event-less-afternoon-at-Lop-Buri
+title: A nice event less afternoon at Lop Buri
 category: blog
 lat: 14.80061
 lng: 100.61377

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-05-Buddist-Shrine-in-front-of-a-busy-mall
+title: Buddist Shrine in front of a busy mall
 category: blog
 lat: 13.74772
 lng: 100.54026

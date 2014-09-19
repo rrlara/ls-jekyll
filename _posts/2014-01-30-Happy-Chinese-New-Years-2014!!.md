@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Happy-Chinese-New-Years-2014!!
+title: Happy Chinese New Years 2014!!
 category: blog
 lat: 37.44865
 lng: 126.44861

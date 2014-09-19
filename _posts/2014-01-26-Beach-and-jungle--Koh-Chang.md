@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-26-Beach-and-jungle--Koh-Chang
+title: Beach and jungle. Koh Chang
 category: blog
 lat: 12.00633
 lng: 102.29288

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-07-A-hostel-by-the-ruins
+title: A hostel by the ruins
 category: blog
 lat: 14.35117
 lng: 100.57025

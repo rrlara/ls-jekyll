@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-25-@-Lonely-Beach-
+title: @ Lonely Beach 
 category: blog
 lat: 12.00671
 lng: 102.29355

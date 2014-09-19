@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-20-Memorial-Stupa-at-The-Choeung-Ek-Genocidal-Center
+title: Memorial Stupa at The Choeung Ek Genocidal Center
 category: blog
 lat: 11.48437
 lng: 104.90185

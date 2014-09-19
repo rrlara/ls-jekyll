@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-17-Cambodia's-countryside-
+title: Cambodia's countryside 
 category: blog
 lat: 13.29782
 lng: 103.83781

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-05-Incheon,-Korea
+title: Incheon, Korea
 category: blog
 lat: 37.44857
 lng: 126.44779

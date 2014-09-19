@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-On-a-tuk-tuk-to-Angkor-Wat
+title: On a tuk tuk to Angkor Wat
 category: blog
 lat: 13.35799
 lng: 103.8541

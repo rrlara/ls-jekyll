@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-Somewhere-outside-of-Bangkok-(heading-to-Cambodia)
+title: Somewhere outside of Bangkok (heading to Cambodia)
 category: blog
 lat: 13.68527
 lng: 100.98386

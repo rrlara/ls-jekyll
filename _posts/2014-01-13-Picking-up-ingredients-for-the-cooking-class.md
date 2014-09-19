@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-13-Picking-up-ingredients-for-the-cooking-class
+title: Picking up ingredients for the cooking class
 category: blog
 lat: 18.78596
 lng: 99.00938

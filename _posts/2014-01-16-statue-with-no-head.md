@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-statue-with-no-head
+title: statue with no head
 category: blog
 lat: 13.46198
 lng: 103.87155

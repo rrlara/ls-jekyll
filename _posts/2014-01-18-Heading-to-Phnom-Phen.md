@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-18-Heading-to-Phnom-Phen
+title: Heading to Phnom Phen
 category: blog
 lat: 13.34841
 lng: 103.88986

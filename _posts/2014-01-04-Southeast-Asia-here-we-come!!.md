@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-04-Southeast-Asia-here-we-come!!
+title: Southeast Asia here we come!!
 category: blog
 lat: 47.44222
 lng: -122.30035

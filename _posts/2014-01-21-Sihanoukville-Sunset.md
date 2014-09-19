@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-21-Sihanoukville-Sunset
+title: Sihanoukville Sunset
 category: blog
 lat: 10.60337
 lng: 103.52625

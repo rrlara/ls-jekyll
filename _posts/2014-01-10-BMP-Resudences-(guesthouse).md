@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-BMP-Resudences-(guesthouse)
+title: BMP Resudences (guesthouse)
 category: blog
 lat: 18.77661
 lng: 98.99022

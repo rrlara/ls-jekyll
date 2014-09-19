@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-06-In-a-tuk-tuk
+title: In a tuk tuk
 category: blog
 lat: 13.74326
 lng: 100.52731

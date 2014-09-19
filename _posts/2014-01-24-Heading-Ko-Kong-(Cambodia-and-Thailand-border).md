@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-24-Heading-Ko-Kong-(Cambodia-and-Thailand-border)
+title: Heading Ko Kong (Cambodia and Thailand border)
 category: blog
 lat: 11.13421
 lng: 103.77054

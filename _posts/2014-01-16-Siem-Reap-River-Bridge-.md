@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-Siem-Reap-River-Bridge-
+title: Siem Reap River Bridge 
 category: blog
 lat: 13.35333
 lng: 103.85594

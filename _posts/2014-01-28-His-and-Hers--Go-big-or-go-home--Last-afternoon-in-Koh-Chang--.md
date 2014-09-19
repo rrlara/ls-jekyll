@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-28-His-and-Hers--Go-big-or-go-home--Last-afternoon-in-Koh-Chang--
+title: His and Hers. Go big or go home. Last afternoon in Koh Chang. 
 category: blog
 lat: 12.03284
 lng: 102.29312

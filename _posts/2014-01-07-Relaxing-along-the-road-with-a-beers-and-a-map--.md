@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-07-Relaxing-along-the-road-with-a-beers-and-a-map--
+title: Relaxing along the road with a beers and a map. 
 category: blog
 lat: 13.75376
 lng: 100.49885

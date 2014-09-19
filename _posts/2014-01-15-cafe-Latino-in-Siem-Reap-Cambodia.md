@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-cafe-Latino-in-Siem-Reap-Cambodia
+title: cafe Latino in Siem Reap Cambodia
 category: blog
 lat: 13.35464
 lng: 103.85457

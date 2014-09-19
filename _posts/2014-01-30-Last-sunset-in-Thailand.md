@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Last-sunset-in-Thailand
+title: Last sunset in Thailand
 category: blog
 lat: 13.26833
 lng: 101.19228

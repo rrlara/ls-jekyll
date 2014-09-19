@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-Royal-palace-&-Phimeanakas-Temple
+title: Royal palace & Phimeanakas Temple
 category: blog
 lat: 13.44572
 lng: 103.8568

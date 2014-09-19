@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-09-Rumbo-a-Chaing-Mai
+title: Rumbo a Chaing Mai
 category: blog
 lat: 18.51052
 lng: 99.21123

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Village's-playground-
+title: Village's playground 
 category: blog
 lat: 18.62458
 lng: 98.65329

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Changdeokgung-Palace
+title: Changdeokgung Palace
 category: blog
 lat: 37.57773
 lng: 126.98995

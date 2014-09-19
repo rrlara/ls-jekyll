@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-09-Becca-sleeping-on-the-sleeper-train-to-Chiang-Mai
+title: Becca sleeping on the sleeper train to Chiang Mai
 category: blog
 lat: 18.03949
 lng: 99.91835

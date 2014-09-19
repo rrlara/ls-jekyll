@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-05-People-on-the-railroad-including-me-
+title: People on the railroad including me 
 category: blog
 lat: 13.75652
 lng: 100.53418

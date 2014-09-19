@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-17-Live-band-on-Pub-Street
+title: Live band on Pub Street
 category: blog
 lat: 13.35463
 lng: 103.85446

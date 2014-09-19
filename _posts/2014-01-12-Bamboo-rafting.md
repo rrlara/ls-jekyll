@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-12-Bamboo-rafting
+title: Bamboo rafting
 category: blog
 lat: 18.6495
 lng: 98.68857

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-Angkor-Thom
+title: Angkor Thom
 category: blog
 lat: 13.44111
 lng: 103.85939

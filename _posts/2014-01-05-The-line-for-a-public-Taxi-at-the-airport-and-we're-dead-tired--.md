@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-05-The-line-for-a-public-Taxi-at-the-airport-and-we're-dead-tired--
+title: The line for a public Taxi at the airport and we're dead tired. 
 category: blog
 lat: 13.69261
 lng: 100.75108

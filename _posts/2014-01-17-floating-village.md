@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-17-floating-village
+title: floating village
 category: blog
 lat: 13.25767
 lng: 103.82361

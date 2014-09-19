@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-08-Monkeys-in-Lop-Buri
+title: Monkeys in Lop Buri
 category: blog
 lat: 14.80135
 lng: 100.61446

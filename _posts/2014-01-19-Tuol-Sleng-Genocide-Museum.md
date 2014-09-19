@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-19-Tuol-Sleng-Genocide-Museum
+title: Tuol Sleng Genocide Museum
 category: blog
 lat: 11.54958
 lng: 104.91751

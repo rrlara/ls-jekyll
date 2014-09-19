@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-17-Crocodile-Farm
+title: Crocodile Farm
 category: blog
 lat: 13.34753
 lng: 103.85432

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-25-Bungalow-at-the-Sunflower-at-Lonely-Beach
+title: Bungalow at the Sunflower at Lonely Beach
 category: blog
 lat: 12.00155
 lng: 102.29541

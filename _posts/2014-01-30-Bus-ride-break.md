@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Bus-ride-break
+title: Bus ride break
 category: blog
 lat: 12.41837
 lng: 102.32571

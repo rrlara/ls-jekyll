@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-Angkor-Wat-sunrise-selfie!!
+title: Angkor Wat sunrise selfie!!
 category: blog
 lat: 13.41309
 lng: 103.86409

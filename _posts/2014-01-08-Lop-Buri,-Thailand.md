@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-08-Lop-Buri,-Thailand
+title: Lop Buri, Thailand
 category: blog
 lat: 14.80226
 lng: 100.61427

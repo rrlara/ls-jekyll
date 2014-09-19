@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-Ta-Keo-(restoring-at-the-moment)
+title: Ta Keo (restoring at the moment)
 category: blog
 lat: 13.44397
 lng: 103.88244

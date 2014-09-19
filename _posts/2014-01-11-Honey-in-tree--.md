@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Honey-in-tree--
+title: Honey in tree  
 category: blog
 lat: 18.64362
 lng: 98.6362

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-23-This-is-what-I-call-a-nice-Beach
+title: This is what I call a nice Beach
 category: blog
 lat: 10.58051
 lng: 103.30738

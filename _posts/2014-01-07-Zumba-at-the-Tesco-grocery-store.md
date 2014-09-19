@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-07-Zumba-at-the-Tesco-grocery-store
+title: Zumba at the Tesco grocery store
 category: blog
 lat: 13.70601
 lng: 100.59936

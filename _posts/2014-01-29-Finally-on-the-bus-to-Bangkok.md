@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-29-Finally-on-the-bus-to-Bangkok
+title: Finally on the bus to Bangkok
 category: blog
 lat: 12.18829
 lng: 102.30083

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-23-Koh-Rong-S--Island
+title: Koh Rong S. Island
 category: blog
 lat: 10.59155
 lng: 103.32871

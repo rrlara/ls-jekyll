@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-29-Last-beach-sunset-at-Lonely-Beach-in-Koh-Chang
+title: Last beach sunset at Lonely Beach in Koh Chang
 category: blog
 lat: 12.0045
 lng: 102.29436

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-12-Ready-to-leave-the-campsite
+title: Ready to leave the campsite
 category: blog
 lat: 18.65269
 lng: 98.63325

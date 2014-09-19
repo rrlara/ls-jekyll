@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-23-Cool-bridge-on-the-distance--Heading-to-the-islands-
+title: Cool bridge on the distance. Heading to the islands 
 category: blog
 lat: 10.60063
 lng: 103.49057

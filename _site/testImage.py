@@ -4,8 +4,8 @@ import cStringIO
 
 
 
-imageURL = "https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-24 17:58:14 PDT.jpg"
-# imageURL = "https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-24 17:52:48 PDT.jpg"
+# imageURL = "https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-24 17:58:14 PDT.jpg"
+imageURL = "https://s3-us-west-2.amazonaws.com/worldcup14/2014-06-24 17:52:48 PDT.jpg"
 print imageURL
 
 file = cStringIO.StringIO(urllib.urlopen(imageURL).read()).getvalue()

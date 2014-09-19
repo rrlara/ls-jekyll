@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-23-Almost-to-the-dock-of-Koh-Rong-S--Island
+title: Almost to the dock of Koh Rong S. Island
 category: blog
 lat: 10.58167
 lng: 103.30997

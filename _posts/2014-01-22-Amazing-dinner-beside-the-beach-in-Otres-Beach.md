@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-22-Amazing-dinner-beside-the-beach-in-Otres-Beach
+title: Amazing dinner beside the beach in Otres Beach
 category: blog
 lat: 10.57697
 lng: 103.54846

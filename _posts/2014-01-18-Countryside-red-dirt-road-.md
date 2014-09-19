@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-18-Countryside-red-dirt-road-
+title: Countryside red dirt road 
 category: blog
 lat: 13.31441
 lng: 103.83453

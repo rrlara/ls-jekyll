@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-09-Chiang-Mai-temple
+title: Chiang Mai temple
 category: blog
 lat: 18.77865
 lng: 98.9917

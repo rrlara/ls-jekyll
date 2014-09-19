@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-The-princess-just-walked-in-this-temple--Police-and-entourage-everywhere--
+title: The princess just walked in this temple. Police and entourage everywhere. 
 category: blog
 lat: 18.78825
 lng: 98.98156

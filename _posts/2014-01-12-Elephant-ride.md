@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-12-Elephant-ride
+title: Elephant ride
 category: blog
 lat: 18.66434
 lng: 98.65849

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-07-Chorrillo-sausage?-(who-thinks-he'll-get-diarrhea?)
+title: Chorrillo sausage? (who thinks he'll get diarrhea?)
 category: blog
 lat: 13.73967
 lng: 100.51663

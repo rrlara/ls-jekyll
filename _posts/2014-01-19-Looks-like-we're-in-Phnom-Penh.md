@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-19-Looks-like-we're-in-Phnom-Penh
+title: Looks like we're in Phnom Penh
 category: blog
 lat: 11.58098
 lng: 104.91678

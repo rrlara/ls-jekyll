@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-Last-temple--Finished--Nada--
+title: Last temple. Finished. Nada. 
 category: blog
 lat: 13.43495
 lng: 103.92094

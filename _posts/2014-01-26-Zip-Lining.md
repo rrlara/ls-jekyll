@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-26-Zip-Lining
+title: Zip Lining
 category: blog
 lat: 11.98641
 lng: 102.29723

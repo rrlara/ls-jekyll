@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-05-@-Bangkok's-airport-immigration
+title: @ Bangkok's airport immigration
 category: blog
 lat: 13.69164
 lng: 100.75062

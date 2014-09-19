@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Heading-to-spot-#2
+title: Heading to spot #2
 category: blog
 lat: 18.61928
 lng: 98.65363

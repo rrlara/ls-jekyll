@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-12-River-next-to-our-camping-site
+title: River next to our camping site
 category: blog
 lat: 18.65256
 lng: 98.63336

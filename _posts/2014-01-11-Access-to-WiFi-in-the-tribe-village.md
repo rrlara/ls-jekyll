@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Access-to-WiFi-in-the-tribe-village
+title: Access to WiFi in the tribe village
 category: blog
 lat: 18.62504
 lng: 98.65357

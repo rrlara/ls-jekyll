@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-06-Grand-Palace
+title: Grand Palace
 category: blog
 lat: 13.75098
 lng: 100.49178

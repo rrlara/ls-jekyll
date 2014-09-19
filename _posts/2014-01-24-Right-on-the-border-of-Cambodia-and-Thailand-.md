@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-24-Right-on-the-border-of-Cambodia-and-Thailand-
+title: Right on the border of Cambodia and Thailand 
 category: blog
 lat: 11.65077
 lng: 102.90986

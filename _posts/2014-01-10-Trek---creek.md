@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-Trek---creek
+title: Trek - creek
 category: blog
 lat: 18.62496
 lng: 98.65811

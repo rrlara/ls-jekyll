@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-09-Party-Train-at-10AM--funnest-train-ever!!-
+title: Party Train at 10AM. funnest train ever!! 
 category: blog
 lat: 18.62942
 lng: 99.03982

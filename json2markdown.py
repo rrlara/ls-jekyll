@@ -66,17 +66,19 @@ for feature in data['features']:
 
 
 	normal = unicodedata.normalize('NFKD', file_name).encode('ASCII', 'ignore')
-	# print commentPost
+
+	commentPost = unicodedata.normalize('NFKD', commentPost).encode('ASCII', 'ignore')
+	print commentPost
 
 	if (file):
 	
 		# print "This is the file name", normal
 		with open("_posts/" + normal + '.md', 'wb') as out_file:
 			out_file.write("---")
+			# out_file.write("\n")
+			# out_file.write("layout: blog")
 			out_file.write("\n")
-			out_file.write("layout: blog")
-			out_file.write("\n")
-			out_file.write("title: " + normal)
+			out_file.write("title: " + commentPost)
 			out_file.write("\n")
 			out_file.write("category: blog")
 			out_file.write("\n")

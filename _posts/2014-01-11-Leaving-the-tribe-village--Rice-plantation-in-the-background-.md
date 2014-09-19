@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Leaving-the-tribe-village--Rice-plantation-in-the-background-
+title: Leaving the tribe village. Rice plantation in the background 
 category: blog
 lat: 18.61519
 lng: 98.65209

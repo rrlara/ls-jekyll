@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-25-Trats-mud-flats--Waiting-for-the-ferry-to-Koh-Chang
+title: Trats mud flats. Waiting for the ferry to Koh Chang
 category: blog
 lat: 12.19046
 lng: 102.36873

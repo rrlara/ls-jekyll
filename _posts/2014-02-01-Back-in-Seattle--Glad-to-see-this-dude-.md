@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-02-01-Back-in-Seattle--Glad-to-see-this-dude-
+title: Back in Seattle. Glad to see this dude.
 category: blog
 lat: 47.55932
 lng: -122.26642

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-08-Leo-Beer--Best-beer-in-Thailand--Needs-a-beer-holder-to-keep-it-cold-in-these-temperatures
+title: Leo Beer. Best beer in Thailand. Needs a beer holder to keep it cold in these temperatures
 category: blog
 lat: 14.36003
 lng: 100.5774

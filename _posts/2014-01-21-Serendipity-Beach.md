@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-21-Serendipity-Beach
+title: Serendipity Beach
 category: blog
 lat: 10.60634
 lng: 103.52159

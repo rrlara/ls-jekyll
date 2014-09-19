@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-Angkor-Wat
+title: Angkor Wat
 category: blog
 lat: 13.41248
 lng: 103.85951

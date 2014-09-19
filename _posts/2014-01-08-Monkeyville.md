@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-08-Monkeyville
+title: Monkeyville
 category: blog
 lat: 14.80312
 lng: 100.61404

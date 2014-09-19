@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Back-in-Bangkok's-airport--
+title: Back in Bangkok's airport. 
 category: blog
 lat: 13.69283
 lng: 100.75381

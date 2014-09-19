@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-06-Becca-at-Grand-Palace-
+title: Becca at Grand Palace 
 category: blog
 lat: 13.75156
 lng: 100.49304

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Somewhere-in-Thailand
+title: Somewhere in Thailand
 category: blog
 lat: 13.1348
 lng: 101.34905

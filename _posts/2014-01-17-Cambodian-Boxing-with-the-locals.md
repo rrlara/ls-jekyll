@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-17-Cambodian-Boxing-with-the-locals
+title: Cambodian Boxing with the locals
 category: blog
 lat: 13.30285
 lng: 103.84653

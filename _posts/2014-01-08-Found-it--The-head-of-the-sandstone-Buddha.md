@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-08-Found-it--The-head-of-the-sandstone-Buddha
+title: Found it. The head of the sandstone Buddha
 category: blog
 lat: 14.35664
 lng: 100.56826

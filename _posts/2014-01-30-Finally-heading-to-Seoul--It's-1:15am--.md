@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Finally-heading-to-Seoul--It's-1:15am--
+title: Finally heading to Seoul. It's 1:15am. 
 category: blog
 lat: 13.68913
 lng: 100.75302

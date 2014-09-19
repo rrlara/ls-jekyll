@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-17-Crocodile-Farms-with-huge-crocodiles-
+title: Crocodile Farms with huge crocodiles 
 category: blog
 lat: 13.34724
 lng: 103.85428

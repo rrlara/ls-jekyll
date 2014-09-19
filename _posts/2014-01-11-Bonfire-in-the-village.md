@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Bonfire-in-the-village
+title: Bonfire in the village
 category: blog
 lat: 18.62521
 lng: 98.65762

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-Temples-and-enormous-trees-
+title: Temples and enormous trees 
 category: blog
 lat: 13.43454
 lng: 103.88955

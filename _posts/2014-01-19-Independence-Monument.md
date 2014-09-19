@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-19-Independence-Monument
+title: Independence Monument
 category: blog
 lat: 11.55678
 lng: 104.92802

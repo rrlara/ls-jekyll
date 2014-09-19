@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-25-Green-Cottage-Bungalows-@-Lonely-Beach
+title: Green Cottage Bungalows @ Lonely Beach
 category: blog
 lat: 11.98949
 lng: 102.29807

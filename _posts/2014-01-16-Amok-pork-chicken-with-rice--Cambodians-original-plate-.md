@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-Amok-pork-chicken-with-rice--Cambodians-original-plate-
+title: Amok pork/chicken with rice. Cambodians original plate 
 category: blog
 lat: 13.3542
 lng: 103.85231

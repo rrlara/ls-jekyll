@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-22-Enjoying-the-sunset-at-Otres-Beach
+title: Enjoying the sunset at Otres Beach
 category: blog
 lat: 10.57806
 lng: 103.54738

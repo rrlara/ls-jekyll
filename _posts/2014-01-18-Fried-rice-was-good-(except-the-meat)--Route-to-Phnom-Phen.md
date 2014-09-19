@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-18-Fried-rice-was-good-(except-the-meat)--Route-to-Phnom-Phen
+title: Fried rice was good (except the meat). Route to Phnom Phen
 category: blog
 lat: 13.004
 lng: 104.56018

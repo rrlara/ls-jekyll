@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-12-Longneck-Village
+title: Longneck Village
 category: blog
 lat: 18.66489
 lng: 98.64937

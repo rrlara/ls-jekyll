@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-08-steering-a-chain-of-barges-from-behind
+title: steering a chain of barges from behind
 category: blog
 lat: 14.358
 lng: 100.58051

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Just-hiked-this-peak--300m-elevation-height-gain
+title: Just hiked this peak. 300m elevation height gain
 category: blog
 lat: 18.60972
 lng: 98.64799

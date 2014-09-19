@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-This-street-is-busy-
+title: This street is busy 
 category: blog
 lat: 37.57519
 lng: 126.98343

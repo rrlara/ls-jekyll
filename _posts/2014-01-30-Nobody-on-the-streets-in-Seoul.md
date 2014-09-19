@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Nobody-on-the-streets-in-Seoul
+title: Nobody on the streets in Seoul
 category: blog
 lat: 37.57391
 lng: 126.99135

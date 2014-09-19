@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-05-Just-outside-the-hotel-in-Bangkok,-Thailand
+title: Just outside the hotel in Bangkok, Thailand
 category: blog
 lat: 13.70625
 lng: 100.59235

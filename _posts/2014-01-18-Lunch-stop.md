@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-18-Lunch-stop
+title: Lunch stop
 category: blog
 lat: 12.07921
 lng: 105.07488

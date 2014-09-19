@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-14-Heading-to-Cambodia!!
+title: Heading to Cambodia!!
 category: blog
 lat: 13.69155
 lng: 100.74671

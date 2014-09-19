@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-Siem-Reap,-Cambodia
+title: Siem Reap, Cambodia
 category: blog
 lat: 13.40829
 lng: 103.81435

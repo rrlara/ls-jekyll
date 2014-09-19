@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-15-Budda-and-a-Hindu-temple
+title: Budda and a Hindu temple
 category: blog
 lat: 13.4491
 lng: 103.85575

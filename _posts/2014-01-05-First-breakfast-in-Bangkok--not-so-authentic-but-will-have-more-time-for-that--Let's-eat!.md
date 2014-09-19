@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-05-First-breakfast-in-Bangkok--not-so-authentic-but-will-have-more-time-for-that--Let's-eat!
+title: First breakfast in Bangkok. not so authentic but will have more time for that. Let's eat!
 category: blog
 lat: 13.70578
 lng: 100.59847

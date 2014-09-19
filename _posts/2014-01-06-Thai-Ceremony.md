@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-06-Thai-Ceremony
+title: Thai Ceremony
 category: blog
 lat: 13.75372
 lng: 100.4987

@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-25-On-the-ferry-to-Koh-Chang
+title: On the ferry to Koh Chang
 category: blog
 lat: 12.17888
 lng: 102.35308

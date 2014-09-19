@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-Lunchtime
+title: Lunchtime
 category: blog
 lat: 18.64949
 lng: 98.66422

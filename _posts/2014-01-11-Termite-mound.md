@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Termite-mound
+title: Termite mound
 category: blog
 lat: 18.60994
 lng: 98.64997

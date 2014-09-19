@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-24-Near-Koh-Kong
+title: Near Koh Kong
 category: blog
 lat: 11.56528
 lng: 103.12529

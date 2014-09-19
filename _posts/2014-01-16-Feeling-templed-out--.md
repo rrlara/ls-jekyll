@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-Feeling-templed-out--
+title: Feeling templed out. 
 category: blog
 lat: 13.44658
 lng: 103.92048

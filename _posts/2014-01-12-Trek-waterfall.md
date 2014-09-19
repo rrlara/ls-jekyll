@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-12-Trek-waterfall
+title: Trek waterfall
 category: blog
 lat: 18.65852
 lng: 98.6488

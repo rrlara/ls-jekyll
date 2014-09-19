@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-It's-cold-in-Seoul--Frozen-pool--
+title: It's cold in Seoul. Frozen pool. 
 category: blog
 lat: 37.57966
 lng: 126.99364

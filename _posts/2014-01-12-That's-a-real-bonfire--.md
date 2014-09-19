@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-12-That's-a-real-bonfire--
+title: That's a real bonfire. 
 category: blog
 lat: 18.65251
 lng: 98.63322

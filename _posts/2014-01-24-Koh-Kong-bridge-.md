@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-24-Koh-Kong-bridge-
+title: Koh Kong bridge 
 category: blog
 lat: 11.61815
 lng: 102.96757

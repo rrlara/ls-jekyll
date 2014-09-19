@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-08-Thai-Elephants
+title: Thai Elephants
 category: blog
 lat: 14.35221
 lng: 100.55923

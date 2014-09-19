@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-Rice-Fields
+title: Rice Fields
 category: blog
 lat: 18.63433
 lng: 98.66267

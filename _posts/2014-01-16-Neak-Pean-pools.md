@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-16-Neak-Pean-pools
+title: Neak Pean pools
 category: blog
 lat: 13.46379
 lng: 103.89477

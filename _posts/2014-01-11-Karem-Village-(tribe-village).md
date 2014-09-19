@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-11-Karem-Village-(tribe-village)
+title: Karem Village (tribe village)
 category: blog
 lat: 18.6243
 lng: 98.65563

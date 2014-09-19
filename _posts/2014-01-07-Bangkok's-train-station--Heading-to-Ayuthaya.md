@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-07-Bangkok's-train-station--Heading-to-Ayuthaya
+title: Bangkok's train station. Heading to Ayuthaya
 category: blog
 lat: 13.73905
 lng: 100.51666

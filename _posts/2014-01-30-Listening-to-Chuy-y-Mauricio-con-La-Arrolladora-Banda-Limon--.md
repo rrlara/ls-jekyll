@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-30-Listening-to-Chuy-y-Mauricio-con-La-Arrolladora-Banda-Limon--
+title: Listening to Chuy y Mauricio con La Arrolladora Banda Limon  
 category: blog
 lat: 13.19321
 lng: 101.24626

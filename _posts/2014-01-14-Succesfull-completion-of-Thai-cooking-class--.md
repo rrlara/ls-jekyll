@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-14-Succesfull-completion-of-Thai-cooking-class--
+title: Succesfull completion of Thai cooking class. 
 category: blog
 lat: 18.78466
 lng: 98.99506

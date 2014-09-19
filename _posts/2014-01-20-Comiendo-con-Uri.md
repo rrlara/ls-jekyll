@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-20-Comiendo-con-Uri
+title: Comiendo con Uri
 category: blog
 lat: 10.60806
 lng: 103.52166

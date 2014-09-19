@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-06-Bangkok's-sunrise-at-7am
+title: Bangkok's sunrise at 7am
 category: blog
 lat: 13.70649
 lng: 100.59273

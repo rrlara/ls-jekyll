@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-12-Becca-hiking-with-a-stick
+title: Becca hiking with a stick
 category: blog
 lat: 18.6578
 lng: 98.6392

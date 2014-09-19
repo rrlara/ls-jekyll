@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: 2014-01-10-Starting-the-trek--Nice-group-of-people--
+title: Starting the trek. Nice group of people. 
 category: blog
 lat: 18.65797
 lng: 98.66115
