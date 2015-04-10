@@ -73,7 +73,7 @@ for feature in data['features']:
 	if (file):
 	
 		# print "This is the file name", normal
-		with open("_posts/" + normal + '.md', 'wb') as out_file:
+		with open("test/" + normal + '.md', 'wb') as out_file:
 			out_file.write("---")
 			# out_file.write("\n")
 			# out_file.write("layout: blog")
